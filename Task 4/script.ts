@@ -35,7 +35,7 @@ const textToOnesAndZeroes = (text: string): number => {
   return output;
 }
 
-console.log(textToOnesAndZeroes('labas'));
-console.log(textToOnesAndZeroes('kebabas'));
-console.log(textToOnesAndZeroes('a'));
-console.log(textToOnesAndZeroes(''));
+// console.log(textToOnesAndZeroes('labas'));
+// console.log(textToOnesAndZeroes('kebabas'));
+// console.log(textToOnesAndZeroes('a'));
+// console.log(textToOnesAndZeroes(''));
