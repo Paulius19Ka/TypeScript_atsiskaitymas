@@ -46,7 +46,7 @@ form {
   font-size: 1.1em;
 }
 
-#submit-btn:hover {
+.submit-btn:hover {
   cursor: pointer;
   background-color: #000;
   color: #fff;
@@ -86,5 +86,18 @@ form {
   #search,
   #submit-btn {
     font-size: 2em;
+  }
+  #output{
+    > div{
+      margin: 0 auto;
+      width: fit-content;
+      > span{
+        width: 600px;
+        font-size: 23px;
+      }
+      >h3{
+        font-size: 28px;
+      }
+    }
   }
 }
