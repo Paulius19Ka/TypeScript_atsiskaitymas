@@ -24,6 +24,12 @@ class PlayersModal {
         const closeBtn = document.createElement('button');
         closeBtn.textContent = 'Close';
         closeBtn.addEventListener('click', () => this.removeModal());
+        dialog.addEventListener('keydown', e => {
+            if (e.key === 'Escape') {
+                this.removeModal();
+            }
+            ;
+        });
         dialog.append(teamName, playersCard, closeBtn);
         return dialog;
     }

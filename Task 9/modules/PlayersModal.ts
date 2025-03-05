@@ -38,7 +38,11 @@ class PlayersModal{
         const closeBtn: HTMLButtonElement = document.createElement('button');
         closeBtn.textContent = 'Close';
         // Add an event listener to the close button, which calls the 'removeModal' method from this Class, to remove the dialog
-        closeBtn.addEventListener('click', () => this.removeModal())
+        closeBtn.addEventListener('click', () => this.removeModal());
+        // Add an event listener for when the 'Escape" key is pressed, to remove the dialog by calling the 'removeModal' method
+        dialog.addEventListener('keydown', e => {
+            if(e.key === 'Escape'){this.removeModal()};
+        });
         // Append the heading, the card and the close button to the dialog
         dialog.append(teamName, playersCard, closeBtn);
         return dialog;
