@@ -17,7 +17,7 @@ fetch(ENDPOINT)
             const playerCard = document.createElement('div');
             playerCard.classList.add('playerCard');
             const playerName = document.createElement('span');
-            playerName.textContent = player.firstName.concat(' ', player.lastName);
+            playerName.textContent = `${player.firstName} ${player.lastName}`;
             const playerInfo = document.createElement('a');
             playerInfo.textContent = 'More info';
             playerInfo.setAttribute('href', `${player.googleSearch}`);

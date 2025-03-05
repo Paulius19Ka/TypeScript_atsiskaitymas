@@ -6,6 +6,7 @@ Pvz.:
   "kebabas" --> 1010101
   "a"       --> 1
 -------------------------------------------------------------------------- */
+type BinaryNumber = 1 | 0;
 
 const textToOnesAndZeroes = (text: string): number => {
 
@@ -16,7 +17,7 @@ const textToOnesAndZeroes = (text: string): number => {
 
   // Variable 'output' - what the function will return, starts with 1
   let output: number = 1;
-  let binaryNum: number
+  let binaryNum: BinaryNumber;
 
   // A loop that begins with 1 (as the first digit is already = 1) and loops as long as 'i' is smaller than the length of the string
   for (let i: number = 1; i < text.length; i++){
@@ -34,7 +35,7 @@ const textToOnesAndZeroes = (text: string): number => {
   return output;
 }
 
-// console.log(textToOnesAndZeroes('labas'));
-// console.log(textToOnesAndZeroes('kebabas'));
-// console.log(textToOnesAndZeroes('a'));
-// console.log(textToOnesAndZeroes(''));
+console.log(textToOnesAndZeroes('labas'));
+console.log(textToOnesAndZeroes('kebabas'));
+console.log(textToOnesAndZeroes('a'));
+console.log(textToOnesAndZeroes(''));

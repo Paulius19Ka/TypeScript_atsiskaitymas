@@ -36,9 +36,9 @@ class PlayersModal{
             // Run a loop through the filtered players array
             currentTeamPlayers.forEach((player: Player) => {
 
-                // Create span elements for each player, assign text content as their full name (by combining first and last names into one string with the use of 'concat' method)
+                // Create span elements for each player, assign text content as their full name (by combining first and last names into one string)
                 const playerSpan: HTMLSpanElement = document.createElement('span');
-                playerSpan.textContent = player.firstName.concat(' ', player.lastName);;
+                playerSpan.textContent = `${player.firstName} ${player.lastName}`;;
 
                 // Append the player span elements to the player card
                 playersCard.append(playerSpan);

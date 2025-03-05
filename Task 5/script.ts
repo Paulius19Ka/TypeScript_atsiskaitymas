@@ -7,9 +7,10 @@ Pvz.:
   "scissors", "rock" --> "Player 2 won!"
   "paper", "paper" --> "Draw!"
 -------------------------------------------------------------------------- */
+type Gestures = 'rock' | 'paper' | 'scissors';
 
 // Assigning types to 'p1_text' and 'p2_text' as strings, that are either 'rock', 'paper' or 'scissors'
-const rockPaperScissors = (p1_text: 'rock' | 'paper' | 'scissors', p2_text: 'rock' | 'paper' | 'scissors'): string => {
+const rockPaperScissors = (p1_text: Gestures, p2_text: Gestures): string => {
 
   // Conditions to check who won the game, or if the game ended in a draw
   if(p1_text === p2_text){
