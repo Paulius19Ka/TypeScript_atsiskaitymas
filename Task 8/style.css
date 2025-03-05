@@ -29,7 +29,7 @@ form {
   flex-wrap: wrap;
 }
 
-#search {
+#meter {
   width: 65%;
   margin: 0;
   padding: 20px;
@@ -38,7 +38,7 @@ form {
   font-size: 1.1em;
 }
 
-#submit-btn {
+.submit-btn {
   width: 35%;
   background-color: #f7f7f7;
   border: 0;
@@ -50,6 +50,31 @@ form {
   cursor: pointer;
   background-color: #000;
   color: #fff;
+}
+#output{
+  margin: 0 20px;
+  > div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    background-color: #ffd45e;
+    padding: 10px;
+    border-radius: 10px;
+    > h3{
+      font-size: 25px;
+      font-weight: 800;
+    }
+    > span{
+      font-size: 20px;
+      padding: 10px;
+      background-color: #ffde85;
+      border-radius: 5px;
+    }
+    > span:hover{
+      background-color: #ffe49a;
+    }
+  }
 }
 
 /* Tablet */
