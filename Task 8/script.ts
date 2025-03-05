@@ -19,6 +19,7 @@ if(!form){
 const submitBtn: HTMLInputElement = document.createElement('input');
 submitBtn.setAttribute('type', 'submit');
 submitBtn.setAttribute('value', 'Submit');
+submitBtn.classList.add('submit-btn');
 // Select the number input field element in HTML
 const metersInput: HTMLInputElement | null = document.querySelector('#meter');
 // Print error message in case the input element does not exist in HTML
@@ -29,12 +30,18 @@ if(!metersInput){
 // Create a div, a heading, and span elements to place converted units into
 const convertedUnits: HTMLDivElement = document.createElement('div');
 const heading: HTMLHeadingElement = document.createElement('h3');
+heading.textContent = `0m converted to:`
 
 const cmSpan: HTMLSpanElement = document.createElement('span');
+cmSpan.textContent = `Centimeters: 0cm`;
 const inSpan: HTMLSpanElement = document.createElement('span');
+inSpan.textContent = `Inches: 0in`;
 const ftSpan: HTMLSpanElement = document.createElement('span');
+ftSpan.textContent = `Feet: 0ft`;
 const miSpan: HTMLSpanElement = document.createElement('span');
+miSpan.textContent = `Miles: 0mi`;
 const ydSpan: HTMLSpanElement = document.createElement('span');
+ydSpan.textContent = `Yards: 0yd`;
 
 // Append the heading and span's to the div element
 convertedUnits.append(heading, cmSpan, inSpan, ftSpan, miSpan, ydSpan);
@@ -55,21 +62,26 @@ form.addEventListener('submit', e => {
     // Print the meter value in the heading
     heading.textContent = `${meters}m converted to:`
 
-    // Create each unit variable as a string, convert meters into desired units, convert the result to a string with two decimal symbols, assign the result to the span's text content
+    // Create each unit variable as a string, convert meters into desired units, convert the result to a string with two decimal symbols (except miles), assign the result to the span's text content
     const centimeters: string = (meters * 100).toFixed(2);
-    cmSpan.textContent = `Centimeters:${centimeters}cm`;
+    cmSpan.textContent = `Centimeters: ${centimeters}cm`;
 
     const inches: string = (meters * 39.37).toFixed(2);
-    inSpan.textContent = `Inches:${inches}in`;
+    inSpan.textContent = `Inches: ${inches}in`;
     
     const feet: string = (meters * 3.281).toFixed(2);
-    ftSpan.textContent = `Feet:${feet}ft`;
+    ftSpan.textContent = `Feet: ${feet}ft`;
     
-    const miles: string = (meters / 1609).toFixed(2);
-    miSpan.textContent = `Miles:${miles}mi`;
+    let miles: string = '';
+    if(meters / 1609 < 0.01){
+        miles = (meters / 1609).toFixed(5);
+    } else {
+        miles = (meters / 1609).toFixed(2);
+    }
+    miSpan.textContent = `Miles: ${miles}mi`;
     
     const yards: string = (meters * 1.094).toFixed(2);
-    ydSpan.textContent = `Yards:${yards}yd`;
+    ydSpan.textContent = `Yards: ${yards}yd`;
 
     form.reset();
 });
