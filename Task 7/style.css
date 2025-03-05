@@ -27,4 +27,55 @@ h1 {
   padding: 30px;
   border-radius: 5px;
   background-color: #fff;
+
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  > div.teamCard{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+
+    width: 300px;
+    background-color: #eeeeee;
+    border-radius: 5px;
+    padding: 6px;
+    > h3{
+      font-size: 18px;
+      font-weight: bold;
+      width: 100%;
+      text-align: center;
+    }
+    > div.playerCard{
+      display: flex;
+      flex-direction: column;
+
+      background-color: #e3e3e3;
+      border-radius: 3px;
+      padding: 5px;
+      width: fit-content;
+      > span{
+        font-size: 16px;
+      }
+      > a{
+        color: black;
+        font-size: 14px;
+        text-decoration: none;
+      }
+      > a:hover{
+        color: #858585;
+      }
+      > span, a{
+        text-align: center;
+      }
+    }
+    > div.playerCard:hover{
+      outline: 1px solid #979797;
+    }
+  }
+  > div.teamCard:hover{
+    outline: 2px solid #a0a0a0;
+  }
 }
