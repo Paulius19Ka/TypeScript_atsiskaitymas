@@ -1,0 +1,2709 @@
+{
+  "teams": [
+    {
+      "id": 1610612737,
+      "name": "Atlanta Hawks",
+      "players": [
+        {
+          "firstName": "Bogdan",
+          "lastName": "Bogdanovic",
+          "googleSearch": "https://www.google.com/search?q=Bogdan+Bogdanovic"
+        },
+        {
+          "firstName": "Clint",
+          "lastName": "Capela",
+          "googleSearch": "https://www.google.com/search?q=Clint+Capela"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Collins",
+          "googleSearch": "https://www.google.com/search?q=John+Collins"
+        },
+        {
+          "firstName": "Kris",
+          "lastName": "Dunn",
+          "googleSearch": "https://www.google.com/search?q=Kris+Dunn"
+        },
+        {
+          "firstName": "Bruno",
+          "lastName": "Fernando",
+          "googleSearch": "https://www.google.com/search?q=Bruno+Fernando"
+        },
+        {
+          "firstName": "Danilo",
+          "lastName": "Gallinari",
+          "googleSearch": "https://www.google.com/search?q=Danilo+Gallinari"
+        },
+        {
+          "firstName": "Brandon",
+          "lastName": "Goodwin",
+          "googleSearch": "https://www.google.com/search?q=Brandon+Goodwin"
+        },
+        {
+          "firstName": "Solomon",
+          "lastName": "Hill",
+          "googleSearch": "https://www.google.com/search?q=Solomon+Hill"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Huerter",
+          "googleSearch": "https://www.google.com/search?q=Kevin+Huerter"
+        },
+        {
+          "firstName": "De'Andre",
+          "lastName": "Hunter",
+          "googleSearch": "https://www.google.com/search?q=De'Andre+Hunter"
+        },
+        {
+          "firstName": "Nathan",
+          "lastName": "Knight",
+          "googleSearch": "https://www.google.com/search?q=Nathan+Knight"
+        },
+        {
+          "firstName": "Skylar",
+          "lastName": "Mays",
+          "googleSearch": "https://www.google.com/search?q=Skylar+Mays"
+        },
+        {
+          "firstName": "Onyeka",
+          "lastName": "Okongwu",
+          "googleSearch": "https://www.google.com/search?q=Onyeka+Okongwu"
+        },
+        {
+          "firstName": "Cam",
+          "lastName": "Reddish",
+          "googleSearch": "https://www.google.com/search?q=Cam+Reddish"
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Snell",
+          "googleSearch": "https://www.google.com/search?q=Tony+Snell"
+        },
+        {
+          "firstName": "Lou",
+          "lastName": "Williams",
+          "googleSearch": "https://www.google.com/search?q=Lou+Williams"
+        },
+        {
+          "firstName": "Trae",
+          "lastName": "Young",
+          "googleSearch": "https://www.google.com/search?q=Trae+Young"
+        }
+      ]
+    },
+    {
+      "id": 1610612747,
+      "name": "Los Angeles Lakers",
+      "players": [
+        {
+          "firstName": "Kostas",
+          "lastName": "Antetokounmpo",
+          "googleSearch": "https://www.google.com/search?q=Kostas+Antetokounmpo"
+        },
+        {
+          "firstName": "Devontae",
+          "lastName": "Cacok",
+          "googleSearch": "https://www.google.com/search?q=Devontae+Cacok"
+        },
+        {
+          "firstName": "Kentavious",
+          "lastName": "Caldwell-Pope",
+          "googleSearch": "https://www.google.com/search?q=Kentavious+Caldwell-Pope"
+        },
+        {
+          "firstName": "Alex",
+          "lastName": "Caruso",
+          "googleSearch": "https://www.google.com/search?q=Alex+Caruso"
+        },
+        {
+          "firstName": "Anthony",
+          "lastName": "Davis",
+          "googleSearch": "https://www.google.com/search?q=Anthony+Davis"
+        },
+        {
+          "firstName": "Andre",
+          "lastName": "Drummond",
+          "googleSearch": "https://www.google.com/search?q=Andre+Drummond"
+        },
+        {
+          "firstName": "Jared",
+          "lastName": "Dudley",
+          "googleSearch": "https://www.google.com/search?q=Jared+Dudley"
+        },
+        {
+          "firstName": "Marc",
+          "lastName": "Gasol",
+          "googleSearch": "https://www.google.com/search?q=Marc+Gasol"
+        },
+        {
+          "firstName": "Montrezl",
+          "lastName": "Harrell",
+          "googleSearch": "https://www.google.com/search?q=Montrezl+Harrell"
+        },
+        {
+          "firstName": "Talen",
+          "lastName": "Horton-Tucker",
+          "googleSearch": "https://www.google.com/search?q=Talen+Horton-Tucker"
+        },
+        {
+          "firstName": "LeBron",
+          "lastName": "James",
+          "googleSearch": "https://www.google.com/search?q=LeBron+James"
+        },
+        {
+          "firstName": "Kyle",
+          "lastName": "Kuzma",
+          "googleSearch": "https://www.google.com/search?q=Kyle+Kuzma"
+        },
+        {
+          "firstName": "Wesley",
+          "lastName": "Matthews",
+          "googleSearch": "https://www.google.com/search?q=Wesley+Matthews"
+        },
+        {
+          "firstName": "Alfonzo",
+          "lastName": "McKinnie",
+          "googleSearch": "https://www.google.com/search?q=Alfonzo+McKinnie"
+        },
+        {
+          "firstName": "Ben",
+          "lastName": "McLemore",
+          "googleSearch": "https://www.google.com/search?q=Ben+McLemore"
+        },
+        {
+          "firstName": "Markieff",
+          "lastName": "Morris",
+          "googleSearch": "https://www.google.com/search?q=Markieff+Morris"
+        },
+        {
+          "firstName": "Dennis",
+          "lastName": "Schroder",
+          "googleSearch": "https://www.google.com/search?q=Dennis+Schroder"
+        }
+      ]
+    },
+    {
+      "id": 1610612763,
+      "name": "Memphis Grizzlies",
+      "players": [
+        {
+          "firstName": "Grayson",
+          "lastName": "Allen",
+          "googleSearch": "https://www.google.com/search?q=Grayson+Allen"
+        },
+        {
+          "firstName": "Kyle",
+          "lastName": "Anderson",
+          "googleSearch": "https://www.google.com/search?q=Kyle+Anderson"
+        },
+        {
+          "firstName": "Desmond",
+          "lastName": "Bane",
+          "googleSearch": "https://www.google.com/search?q=Desmond+Bane"
+        },
+        {
+          "firstName": "Dillon",
+          "lastName": "Brooks",
+          "googleSearch": "https://www.google.com/search?q=Dillon+Brooks"
+        },
+        {
+          "firstName": "Brandon",
+          "lastName": "Clarke",
+          "googleSearch": "https://www.google.com/search?q=Brandon+Clarke"
+        },
+        {
+          "firstName": "Tim",
+          "lastName": "Frazier",
+          "googleSearch": "https://www.google.com/search?q=Tim+Frazier"
+        },
+        {
+          "firstName": "Jaren",
+          "lastName": "Jackson Jr.",
+          "googleSearch": "https://www.google.com/search?q=Jaren+Jackson Jr."
+        },
+        {
+          "firstName": "Tyus",
+          "lastName": "Jones",
+          "googleSearch": "https://www.google.com/search?q=Tyus+Jones"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Konchar",
+          "googleSearch": "https://www.google.com/search?q=John+Konchar"
+        },
+        {
+          "firstName": "Sean",
+          "lastName": "McDermott",
+          "googleSearch": "https://www.google.com/search?q=Sean+McDermott"
+        },
+        {
+          "firstName": "De'Anthony",
+          "lastName": "Melton",
+          "googleSearch": "https://www.google.com/search?q=De'Anthony+Melton"
+        },
+        {
+          "firstName": "Ja",
+          "lastName": "Morant",
+          "googleSearch": "https://www.google.com/search?q=Ja+Morant"
+        },
+        {
+          "firstName": "Jontay",
+          "lastName": "Porter",
+          "googleSearch": "https://www.google.com/search?q=Jontay+Porter"
+        },
+        {
+          "firstName": "Killian",
+          "lastName": "Tillie",
+          "googleSearch": "https://www.google.com/search?q=Killian+Tillie"
+        },
+        {
+          "firstName": "Xavier",
+          "lastName": "Tillman",
+          "googleSearch": "https://www.google.com/search?q=Xavier+Tillman"
+        },
+        {
+          "firstName": "Jonas",
+          "lastName": "Valanciunas",
+          "googleSearch": "https://www.google.com/search?q=Jonas+Valanciunas"
+        },
+        {
+          "firstName": "Justise",
+          "lastName": "Winslow",
+          "googleSearch": "https://www.google.com/search?q=Justise+Winslow"
+        }
+      ]
+    },
+    {
+      "id": 1610612748,
+      "name": "Miami Heat",
+      "players": [
+        {
+          "firstName": "Precious",
+          "lastName": "Achiuwa",
+          "googleSearch": "https://www.google.com/search?q=Precious+Achiuwa"
+        },
+        {
+          "firstName": "Bam",
+          "lastName": "Adebayo",
+          "googleSearch": "https://www.google.com/search?q=Bam+Adebayo"
+        },
+        {
+          "firstName": "Trevor",
+          "lastName": "Ariza",
+          "googleSearch": "https://www.google.com/search?q=Trevor+Ariza"
+        },
+        {
+          "firstName": "Nemanja",
+          "lastName": "Bjelica",
+          "googleSearch": "https://www.google.com/search?q=Nemanja+Bjelica"
+        },
+        {
+          "firstName": "Jimmy",
+          "lastName": "Butler",
+          "googleSearch": "https://www.google.com/search?q=Jimmy+Butler"
+        },
+        {
+          "firstName": "Dewayne",
+          "lastName": "Dedmon",
+          "googleSearch": "https://www.google.com/search?q=Dewayne+Dedmon"
+        },
+        {
+          "firstName": "Goran",
+          "lastName": "Dragic",
+          "googleSearch": "https://www.google.com/search?q=Goran+Dragic"
+        },
+        {
+          "firstName": "Udonis",
+          "lastName": "Haslem",
+          "googleSearch": "https://www.google.com/search?q=Udonis+Haslem"
+        },
+        {
+          "firstName": "Tyler",
+          "lastName": "Herro",
+          "googleSearch": "https://www.google.com/search?q=Tyler+Herro"
+        },
+        {
+          "firstName": "Andre",
+          "lastName": "Iguodala",
+          "googleSearch": "https://www.google.com/search?q=Andre+Iguodala"
+        },
+        {
+          "firstName": "Kendrick",
+          "lastName": "Nunn",
+          "googleSearch": "https://www.google.com/search?q=Kendrick+Nunn"
+        },
+        {
+          "firstName": "KZ",
+          "lastName": "Okpala",
+          "googleSearch": "https://www.google.com/search?q=KZ+Okpala"
+        },
+        {
+          "firstName": "Victor",
+          "lastName": "Oladipo",
+          "googleSearch": "https://www.google.com/search?q=Victor+Oladipo"
+        },
+        {
+          "firstName": "Duncan",
+          "lastName": "Robinson",
+          "googleSearch": "https://www.google.com/search?q=Duncan+Robinson"
+        },
+        {
+          "firstName": "Max",
+          "lastName": "Strus",
+          "googleSearch": "https://www.google.com/search?q=Max+Strus"
+        },
+        {
+          "firstName": "Gabe",
+          "lastName": "Vincent",
+          "googleSearch": "https://www.google.com/search?q=Gabe+Vincent"
+        },
+        {
+          "firstName": "Omer",
+          "lastName": "Yurtseven",
+          "googleSearch": "https://www.google.com/search?q=Omer+Yurtseven"
+        }
+      ]
+    },
+    {
+      "id": 1610612749,
+      "name": "Milwaukee Bucks",
+      "players": [
+        {
+          "firstName": "Giannis",
+          "lastName": "Antetokounmpo",
+          "googleSearch": "https://www.google.com/search?q=Giannis+Antetokounmpo"
+        },
+        {
+          "firstName": "Thanasis",
+          "lastName": "Antetokounmpo",
+          "googleSearch": "https://www.google.com/search?q=Thanasis+Antetokounmpo"
+        },
+        {
+          "firstName": "Elijah",
+          "lastName": "Bryant",
+          "googleSearch": "https://www.google.com/search?q=Elijah+Bryant"
+        },
+        {
+          "firstName": "Pat",
+          "lastName": "Connaughton",
+          "googleSearch": "https://www.google.com/search?q=Pat+Connaughton"
+        },
+        {
+          "firstName": "Donte",
+          "lastName": "DiVincenzo",
+          "googleSearch": "https://www.google.com/search?q=Donte+DiVincenzo"
+        },
+        {
+          "firstName": "Mamadi",
+          "lastName": "Diakite",
+          "googleSearch": "https://www.google.com/search?q=Mamadi+Diakite"
+        },
+        {
+          "firstName": "Bryn",
+          "lastName": "Forbes",
+          "googleSearch": "https://www.google.com/search?q=Bryn+Forbes"
+        },
+        {
+          "firstName": "Jrue",
+          "lastName": "Holiday",
+          "googleSearch": "https://www.google.com/search?q=Jrue+Holiday"
+        },
+        {
+          "firstName": "Justin",
+          "lastName": "Jackson",
+          "googleSearch": "https://www.google.com/search?q=Justin+Jackson"
+        },
+        {
+          "firstName": "Brook",
+          "lastName": "Lopez",
+          "googleSearch": "https://www.google.com/search?q=Brook+Lopez"
+        },
+        {
+          "firstName": "Sam",
+          "lastName": "Merrill",
+          "googleSearch": "https://www.google.com/search?q=Sam+Merrill"
+        },
+        {
+          "firstName": "Khris",
+          "lastName": "Middleton",
+          "googleSearch": "https://www.google.com/search?q=Khris+Middleton"
+        },
+        {
+          "firstName": "Jordan",
+          "lastName": "Nwora",
+          "googleSearch": "https://www.google.com/search?q=Jordan+Nwora"
+        },
+        {
+          "firstName": "Bobby",
+          "lastName": "Portis",
+          "googleSearch": "https://www.google.com/search?q=Bobby+Portis"
+        },
+        {
+          "firstName": "Jeff",
+          "lastName": "Teague",
+          "googleSearch": "https://www.google.com/search?q=Jeff+Teague"
+        },
+        {
+          "firstName": "Axel",
+          "lastName": "Toupane",
+          "googleSearch": "https://www.google.com/search?q=Axel+Toupane"
+        },
+        {
+          "firstName": "P.J.",
+          "lastName": "Tucker",
+          "googleSearch": "https://www.google.com/search?q=P.J.+Tucker"
+        }
+      ]
+    },
+    {
+      "id": 1610612750,
+      "name": "Minnesota Timberwolves",
+      "players": [
+        {
+          "firstName": "Malik",
+          "lastName": "Beasley",
+          "googleSearch": "https://www.google.com/search?q=Malik+Beasley"
+        },
+        {
+          "firstName": "Jarrett",
+          "lastName": "Culver",
+          "googleSearch": "https://www.google.com/search?q=Jarrett+Culver"
+        },
+        {
+          "firstName": "Ed",
+          "lastName": "Davis",
+          "googleSearch": "https://www.google.com/search?q=Ed+Davis"
+        },
+        {
+          "firstName": "Anthony",
+          "lastName": "Edwards",
+          "googleSearch": "https://www.google.com/search?q=Anthony+Edwards"
+        },
+        {
+          "firstName": "Juancho",
+          "lastName": "Hernangomez",
+          "googleSearch": "https://www.google.com/search?q=Juancho+Hernangomez"
+        },
+        {
+          "firstName": "Jake",
+          "lastName": "Layman",
+          "googleSearch": "https://www.google.com/search?q=Jake+Layman"
+        },
+        {
+          "firstName": "Jaden",
+          "lastName": "McDaniels",
+          "googleSearch": "https://www.google.com/search?q=Jaden+McDaniels"
+        },
+        {
+          "firstName": "Jordan",
+          "lastName": "McLaughlin",
+          "googleSearch": "https://www.google.com/search?q=Jordan+McLaughlin"
+        },
+        {
+          "firstName": "Jaylen",
+          "lastName": "Nowell",
+          "googleSearch": "https://www.google.com/search?q=Jaylen+Nowell"
+        },
+        {
+          "firstName": "Josh",
+          "lastName": "Okogie",
+          "googleSearch": "https://www.google.com/search?q=Josh+Okogie"
+        },
+        {
+          "firstName": "Naz",
+          "lastName": "Reid",
+          "googleSearch": "https://www.google.com/search?q=Naz+Reid"
+        },
+        {
+          "firstName": "Ricky",
+          "lastName": "Rubio",
+          "googleSearch": "https://www.google.com/search?q=Ricky+Rubio"
+        },
+        {
+          "firstName": "D'Angelo",
+          "lastName": "Russell",
+          "googleSearch": "https://www.google.com/search?q=D'Angelo+Russell"
+        },
+        {
+          "firstName": "Karl-Anthony",
+          "lastName": "Towns",
+          "googleSearch": "https://www.google.com/search?q=Karl-Anthony+Towns"
+        },
+        {
+          "firstName": "Jarred",
+          "lastName": "Vanderbilt",
+          "googleSearch": "https://www.google.com/search?q=Jarred+Vanderbilt"
+        }
+      ]
+    },
+    {
+      "id": 1610612740,
+      "name": "New Orleans Pelicans",
+      "players": [
+        {
+          "firstName": "Steven",
+          "lastName": "Adams",
+          "googleSearch": "https://www.google.com/search?q=Steven+Adams"
+        },
+        {
+          "firstName": "Nickeil",
+          "lastName": "Alexander-Walker",
+          "googleSearch": "https://www.google.com/search?q=Nickeil+Alexander-Walker"
+        },
+        {
+          "firstName": "Lonzo",
+          "lastName": "Ball",
+          "googleSearch": "https://www.google.com/search?q=Lonzo+Ball"
+        },
+        {
+          "firstName": "Eric",
+          "lastName": "Bledsoe",
+          "googleSearch": "https://www.google.com/search?q=Eric+Bledsoe"
+        },
+        {
+          "firstName": "Wenyen",
+          "lastName": "Gabriel",
+          "googleSearch": "https://www.google.com/search?q=Wenyen+Gabriel"
+        },
+        {
+          "firstName": "Josh",
+          "lastName": "Hart",
+          "googleSearch": "https://www.google.com/search?q=Josh+Hart"
+        },
+        {
+          "firstName": "Jaxson",
+          "lastName": "Hayes",
+          "googleSearch": "https://www.google.com/search?q=Jaxson+Hayes"
+        },
+        {
+          "firstName": "Willy",
+          "lastName": "Hernangomez",
+          "googleSearch": "https://www.google.com/search?q=Willy+Hernangomez"
+        },
+        {
+          "firstName": "Brandon",
+          "lastName": "Ingram",
+          "googleSearch": "https://www.google.com/search?q=Brandon+Ingram"
+        },
+        {
+          "firstName": "Wes",
+          "lastName": "Iwundu",
+          "googleSearch": "https://www.google.com/search?q=Wes+Iwundu"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Johnson",
+          "googleSearch": "https://www.google.com/search?q=James+Johnson"
+        },
+        {
+          "firstName": "Kira",
+          "lastName": "Lewis Jr.",
+          "googleSearch": "https://www.google.com/search?q=Kira+Lewis Jr."
+        },
+        {
+          "firstName": "Didi",
+          "lastName": "Louzada",
+          "googleSearch": "https://www.google.com/search?q=Didi+Louzada"
+        },
+        {
+          "firstName": "Naji",
+          "lastName": "Marshall",
+          "googleSearch": "https://www.google.com/search?q=Naji+Marshall"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Nunnally",
+          "googleSearch": "https://www.google.com/search?q=James+Nunnally"
+        },
+        {
+          "firstName": "Zion",
+          "lastName": "Williamson",
+          "googleSearch": "https://www.google.com/search?q=Zion+Williamson"
+        }
+      ]
+    },
+    {
+      "id": 1610612738,
+      "name": "Boston Celtics",
+      "players": [
+        {
+          "firstName": "Jaylen",
+          "lastName": "Brown",
+          "googleSearch": "https://www.google.com/search?q=Jaylen+Brown"
+        },
+        {
+          "firstName": "Carsen",
+          "lastName": "Edwards",
+          "googleSearch": "https://www.google.com/search?q=Carsen+Edwards"
+        },
+        {
+          "firstName": "Tacko",
+          "lastName": "Fall",
+          "googleSearch": "https://www.google.com/search?q=Tacko+Fall"
+        },
+        {
+          "firstName": "Evan",
+          "lastName": "Fournier",
+          "googleSearch": "https://www.google.com/search?q=Evan+Fournier"
+        },
+        {
+          "firstName": "Luke",
+          "lastName": "Kornet",
+          "googleSearch": "https://www.google.com/search?q=Luke+Kornet"
+        },
+        {
+          "firstName": "Romeo",
+          "lastName": "Langford",
+          "googleSearch": "https://www.google.com/search?q=Romeo+Langford"
+        },
+        {
+          "firstName": "Aaron",
+          "lastName": "Nesmith",
+          "googleSearch": "https://www.google.com/search?q=Aaron+Nesmith"
+        },
+        {
+          "firstName": "Semi",
+          "lastName": "Ojeleye",
+          "googleSearch": "https://www.google.com/search?q=Semi+Ojeleye"
+        },
+        {
+          "firstName": "Jabari",
+          "lastName": "Parker",
+          "googleSearch": "https://www.google.com/search?q=Jabari+Parker"
+        },
+        {
+          "firstName": "Payton",
+          "lastName": "Pritchard",
+          "googleSearch": "https://www.google.com/search?q=Payton+Pritchard"
+        },
+        {
+          "firstName": "Marcus",
+          "lastName": "Smart",
+          "googleSearch": "https://www.google.com/search?q=Marcus+Smart"
+        },
+        {
+          "firstName": "Jayson",
+          "lastName": "Tatum",
+          "googleSearch": "https://www.google.com/search?q=Jayson+Tatum"
+        },
+        {
+          "firstName": "Tristan",
+          "lastName": "Thompson",
+          "googleSearch": "https://www.google.com/search?q=Tristan+Thompson"
+        },
+        {
+          "firstName": "Kemba",
+          "lastName": "Walker",
+          "googleSearch": "https://www.google.com/search?q=Kemba+Walker"
+        },
+        {
+          "firstName": "Tremont",
+          "lastName": "Waters",
+          "googleSearch": "https://www.google.com/search?q=Tremont+Waters"
+        },
+        {
+          "firstName": "Grant",
+          "lastName": "Williams",
+          "googleSearch": "https://www.google.com/search?q=Grant+Williams"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Williams III",
+          "googleSearch": "https://www.google.com/search?q=Robert+Williams III"
+        }
+      ]
+    },
+    {
+      "id": 1610612752,
+      "name": "New York Knicks",
+      "players": [
+        {
+          "firstName": "RJ",
+          "lastName": "Barrett",
+          "googleSearch": "https://www.google.com/search?q=RJ+Barrett"
+        },
+        {
+          "firstName": "Reggie",
+          "lastName": "Bullock",
+          "googleSearch": "https://www.google.com/search?q=Reggie+Bullock"
+        },
+        {
+          "firstName": "Alec",
+          "lastName": "Burks",
+          "googleSearch": "https://www.google.com/search?q=Alec+Burks"
+        },
+        {
+          "firstName": "Taj",
+          "lastName": "Gibson",
+          "googleSearch": "https://www.google.com/search?q=Taj+Gibson"
+        },
+        {
+          "firstName": "Jared",
+          "lastName": "Harper",
+          "googleSearch": "https://www.google.com/search?q=Jared+Harper"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Knox II",
+          "googleSearch": "https://www.google.com/search?q=Kevin+Knox II"
+        },
+        {
+          "firstName": "Nerlens",
+          "lastName": "Noel",
+          "googleSearch": "https://www.google.com/search?q=Nerlens+Noel"
+        },
+        {
+          "firstName": "Frank",
+          "lastName": "Ntilikina",
+          "googleSearch": "https://www.google.com/search?q=Frank+Ntilikina"
+        },
+        {
+          "firstName": "Elfrid",
+          "lastName": "Payton",
+          "googleSearch": "https://www.google.com/search?q=Elfrid+Payton"
+        },
+        {
+          "firstName": "Norvel",
+          "lastName": "Pelle",
+          "googleSearch": "https://www.google.com/search?q=Norvel+Pelle"
+        },
+        {
+          "firstName": "Theo",
+          "lastName": "Pinson",
+          "googleSearch": "https://www.google.com/search?q=Theo+Pinson"
+        },
+        {
+          "firstName": "Immanuel",
+          "lastName": "Quickley",
+          "googleSearch": "https://www.google.com/search?q=Immanuel+Quickley"
+        },
+        {
+          "firstName": "Julius",
+          "lastName": "Randle",
+          "googleSearch": "https://www.google.com/search?q=Julius+Randle"
+        },
+        {
+          "firstName": "Mitchell",
+          "lastName": "Robinson",
+          "googleSearch": "https://www.google.com/search?q=Mitchell+Robinson"
+        },
+        {
+          "firstName": "Derrick",
+          "lastName": "Rose",
+          "googleSearch": "https://www.google.com/search?q=Derrick+Rose"
+        },
+        {
+          "firstName": "Obi",
+          "lastName": "Toppin",
+          "googleSearch": "https://www.google.com/search?q=Obi+Toppin"
+        },
+        {
+          "firstName": "Luca",
+          "lastName": "Vildoza",
+          "googleSearch": "https://www.google.com/search?q=Luca+Vildoza"
+        }
+      ]
+    },
+    {
+      "id": 1610612760,
+      "name": "Oklahoma City Thunder",
+      "players": [
+        {
+          "firstName": "Darius",
+          "lastName": "Bazley",
+          "googleSearch": "https://www.google.com/search?q=Darius+Bazley"
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Bradley",
+          "googleSearch": "https://www.google.com/search?q=Tony+Bradley"
+        },
+        {
+          "firstName": "Moses",
+          "lastName": "Brown",
+          "googleSearch": "https://www.google.com/search?q=Moses+Brown"
+        },
+        {
+          "firstName": "Charlie",
+          "lastName": "Brown Jr.",
+          "googleSearch": "https://www.google.com/search?q=Charlie+Brown Jr."
+        },
+        {
+          "firstName": "Gabriel",
+          "lastName": "Deck",
+          "googleSearch": "https://www.google.com/search?q=Gabriel+Deck"
+        },
+        {
+          "firstName": "Luguentz",
+          "lastName": "Dort",
+          "googleSearch": "https://www.google.com/search?q=Luguentz+Dort"
+        },
+        {
+          "firstName": "Shai",
+          "lastName": "Gilgeous-Alexander",
+          "googleSearch": "https://www.google.com/search?q=Shai+Gilgeous-Alexander"
+        },
+        {
+          "firstName": "Josh",
+          "lastName": "Hall",
+          "googleSearch": "https://www.google.com/search?q=Josh+Hall"
+        },
+        {
+          "firstName": "Jaylen",
+          "lastName": "Hoard",
+          "googleSearch": "https://www.google.com/search?q=Jaylen+Hoard"
+        },
+        {
+          "firstName": "Al",
+          "lastName": "Horford",
+          "googleSearch": "https://www.google.com/search?q=Al+Horford"
+        },
+        {
+          "firstName": "Ty",
+          "lastName": "Jerome",
+          "googleSearch": "https://www.google.com/search?q=Ty+Jerome"
+        },
+        {
+          "firstName": "Theo",
+          "lastName": "Maledon",
+          "googleSearch": "https://www.google.com/search?q=Theo+Maledon"
+        },
+        {
+          "firstName": "Mike",
+          "lastName": "Muscala",
+          "googleSearch": "https://www.google.com/search?q=Mike+Muscala"
+        },
+        {
+          "firstName": "Svi",
+          "lastName": "Mykhailiuk",
+          "googleSearch": "https://www.google.com/search?q=Svi+Mykhailiuk"
+        },
+        {
+          "firstName": "Aleksej",
+          "lastName": "Pokusevski",
+          "googleSearch": "https://www.google.com/search?q=Aleksej+Pokusevski"
+        },
+        {
+          "firstName": "Isaiah",
+          "lastName": "Roby",
+          "googleSearch": "https://www.google.com/search?q=Isaiah+Roby"
+        },
+        {
+          "firstName": "Kenrich",
+          "lastName": "Williams",
+          "googleSearch": "https://www.google.com/search?q=Kenrich+Williams"
+        }
+      ]
+    },
+    {
+      "id": 1610612751,
+      "name": "Brooklyn Nets",
+      "players": [
+        {
+          "firstName": "Bruce",
+          "lastName": "Brown",
+          "googleSearch": "https://www.google.com/search?q=Bruce+Brown"
+        },
+        {
+          "firstName": "Chris",
+          "lastName": "Chiozza",
+          "googleSearch": "https://www.google.com/search?q=Chris+Chiozza"
+        },
+        {
+          "firstName": "Nicolas",
+          "lastName": "Claxton",
+          "googleSearch": "https://www.google.com/search?q=Nicolas+Claxton"
+        },
+        {
+          "firstName": "Spencer",
+          "lastName": "Dinwiddie",
+          "googleSearch": "https://www.google.com/search?q=Spencer+Dinwiddie"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Durant",
+          "googleSearch": "https://www.google.com/search?q=Kevin+Durant"
+        },
+        {
+          "firstName": "Jeff",
+          "lastName": "Green",
+          "googleSearch": "https://www.google.com/search?q=Jeff+Green"
+        },
+        {
+          "firstName": "Blake",
+          "lastName": "Griffin",
+          "googleSearch": "https://www.google.com/search?q=Blake+Griffin"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Harden",
+          "googleSearch": "https://www.google.com/search?q=James+Harden"
+        },
+        {
+          "firstName": "Joe",
+          "lastName": "Harris",
+          "googleSearch": "https://www.google.com/search?q=Joe+Harris"
+        },
+        {
+          "firstName": "Kyrie",
+          "lastName": "Irving",
+          "googleSearch": "https://www.google.com/search?q=Kyrie+Irving"
+        },
+        {
+          "firstName": "Mike",
+          "lastName": "James",
+          "googleSearch": "https://www.google.com/search?q=Mike+James"
+        },
+        {
+          "firstName": "Alize",
+          "lastName": "Johnson",
+          "googleSearch": "https://www.google.com/search?q=Alize+Johnson"
+        },
+        {
+          "firstName": "Tyler",
+          "lastName": "Johnson",
+          "googleSearch": "https://www.google.com/search?q=Tyler+Johnson"
+        },
+        {
+          "firstName": "DeAndre",
+          "lastName": "Jordan",
+          "googleSearch": "https://www.google.com/search?q=DeAndre+Jordan"
+        },
+        {
+          "firstName": "Timothe",
+          "lastName": "Luwawu-Cabarrot",
+          "googleSearch": "https://www.google.com/search?q=Timothe+Luwawu-Cabarrot"
+        },
+        {
+          "firstName": "Reggie",
+          "lastName": "Perry",
+          "googleSearch": "https://www.google.com/search?q=Reggie+Perry"
+        },
+        {
+          "firstName": "Landry",
+          "lastName": "Shamet",
+          "googleSearch": "https://www.google.com/search?q=Landry+Shamet"
+        }
+      ]
+    },
+    {
+      "id": 1610612753,
+      "name": "Orlando Magic",
+      "players": [
+        {
+          "firstName": "Cole",
+          "lastName": "Anthony",
+          "googleSearch": "https://www.google.com/search?q=Cole+Anthony"
+        },
+        {
+          "firstName": "Dwayne",
+          "lastName": "Bacon",
+          "googleSearch": "https://www.google.com/search?q=Dwayne+Bacon"
+        },
+        {
+          "firstName": "Mo",
+          "lastName": "Bamba",
+          "googleSearch": "https://www.google.com/search?q=Mo+Bamba"
+        },
+        {
+          "firstName": "Ignas",
+          "lastName": "Brazdeikis",
+          "googleSearch": "https://www.google.com/search?q=Ignas+Brazdeikis"
+        },
+        {
+          "firstName": "Wendell",
+          "lastName": "Carter Jr.",
+          "googleSearch": "https://www.google.com/search?q=Wendell+Carter Jr."
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Carter-Williams",
+          "googleSearch": "https://www.google.com/search?q=Michael+Carter-Williams"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Ennis III",
+          "googleSearch": "https://www.google.com/search?q=James+Ennis III"
+        },
+        {
+          "firstName": "Markelle",
+          "lastName": "Fultz",
+          "googleSearch": "https://www.google.com/search?q=Markelle+Fultz"
+        },
+        {
+          "firstName": "Donta",
+          "lastName": "Hall",
+          "googleSearch": "https://www.google.com/search?q=Donta+Hall"
+        },
+        {
+          "firstName": "R.J.",
+          "lastName": "Hampton",
+          "googleSearch": "https://www.google.com/search?q=R.J.+Hampton"
+        },
+        {
+          "firstName": "Gary",
+          "lastName": "Harris",
+          "googleSearch": "https://www.google.com/search?q=Gary+Harris"
+        },
+        {
+          "firstName": "Jonathan",
+          "lastName": "Isaac",
+          "googleSearch": "https://www.google.com/search?q=Jonathan+Isaac"
+        },
+        {
+          "firstName": "Chuma",
+          "lastName": "Okeke",
+          "googleSearch": "https://www.google.com/search?q=Chuma+Okeke"
+        },
+        {
+          "firstName": "Otto",
+          "lastName": "Porter Jr.",
+          "googleSearch": "https://www.google.com/search?q=Otto+Porter Jr."
+        },
+        {
+          "firstName": "Chasson",
+          "lastName": "Randle",
+          "googleSearch": "https://www.google.com/search?q=Chasson+Randle"
+        },
+        {
+          "firstName": "Terrence",
+          "lastName": "Ross",
+          "googleSearch": "https://www.google.com/search?q=Terrence+Ross"
+        },
+        {
+          "firstName": "Sindarius",
+          "lastName": "Thornwell",
+          "googleSearch": "https://www.google.com/search?q=Sindarius+Thornwell"
+        },
+        {
+          "firstName": "Moritz",
+          "lastName": "Wagner",
+          "googleSearch": "https://www.google.com/search?q=Moritz+Wagner"
+        }
+      ]
+    },
+    {
+      "id": 1610612755,
+      "name": "Philadelphia 76ers",
+      "players": [
+        {
+          "firstName": "Gary",
+          "lastName": "Clark",
+          "googleSearch": "https://www.google.com/search?q=Gary+Clark"
+        },
+        {
+          "firstName": "Seth",
+          "lastName": "Curry",
+          "googleSearch": "https://www.google.com/search?q=Seth+Curry"
+        },
+        {
+          "firstName": "Joel",
+          "lastName": "Embiid",
+          "googleSearch": "https://www.google.com/search?q=Joel+Embiid"
+        },
+        {
+          "firstName": "Danny",
+          "lastName": "Green",
+          "googleSearch": "https://www.google.com/search?q=Danny+Green"
+        },
+        {
+          "firstName": "Tobias",
+          "lastName": "Harris",
+          "googleSearch": "https://www.google.com/search?q=Tobias+Harris"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Hill",
+          "googleSearch": "https://www.google.com/search?q=George+Hill"
+        },
+        {
+          "firstName": "Dwight",
+          "lastName": "Howard",
+          "googleSearch": "https://www.google.com/search?q=Dwight+Howard"
+        },
+        {
+          "firstName": "Isaiah",
+          "lastName": "Joe",
+          "googleSearch": "https://www.google.com/search?q=Isaiah+Joe"
+        },
+        {
+          "firstName": "Furkan",
+          "lastName": "Korkmaz",
+          "googleSearch": "https://www.google.com/search?q=Furkan+Korkmaz"
+        },
+        {
+          "firstName": "Tyrese",
+          "lastName": "Maxey",
+          "googleSearch": "https://www.google.com/search?q=Tyrese+Maxey"
+        },
+        {
+          "firstName": "Shake",
+          "lastName": "Milton",
+          "googleSearch": "https://www.google.com/search?q=Shake+Milton"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "Reed",
+          "googleSearch": "https://www.google.com/search?q=Paul+Reed"
+        },
+        {
+          "firstName": "Mike",
+          "lastName": "Scott",
+          "googleSearch": "https://www.google.com/search?q=Mike+Scott"
+        },
+        {
+          "firstName": "Ben",
+          "lastName": "Simmons",
+          "googleSearch": "https://www.google.com/search?q=Ben+Simmons"
+        },
+        {
+          "firstName": "Matisse",
+          "lastName": "Thybulle",
+          "googleSearch": "https://www.google.com/search?q=Matisse+Thybulle"
+        },
+        {
+          "firstName": "Anthony",
+          "lastName": "Tolliver",
+          "googleSearch": "https://www.google.com/search?q=Anthony+Tolliver"
+        },
+        {
+          "firstName": "Rayjon",
+          "lastName": "Tucker",
+          "googleSearch": "https://www.google.com/search?q=Rayjon+Tucker"
+        }
+      ]
+    },
+    {
+      "id": 1610612766,
+      "name": "Charlotte Hornets",
+      "players": [
+        {
+          "firstName": "LaMelo",
+          "lastName": "Ball",
+          "googleSearch": "https://www.google.com/search?q=LaMelo+Ball"
+        },
+        {
+          "firstName": "Bismack",
+          "lastName": "Biyombo",
+          "googleSearch": "https://www.google.com/search?q=Bismack+Biyombo"
+        },
+        {
+          "firstName": "Miles",
+          "lastName": "Bridges",
+          "googleSearch": "https://www.google.com/search?q=Miles+Bridges"
+        },
+        {
+          "firstName": "Vernon",
+          "lastName": "Carey Jr.",
+          "googleSearch": "https://www.google.com/search?q=Vernon+Carey Jr."
+        },
+        {
+          "firstName": "Nate",
+          "lastName": "Darling",
+          "googleSearch": "https://www.google.com/search?q=Nate+Darling"
+        },
+        {
+          "firstName": "Devonte'",
+          "lastName": "Graham",
+          "googleSearch": "https://www.google.com/search?q=Devonte'+Graham"
+        },
+        {
+          "firstName": "Gordon",
+          "lastName": "Hayward",
+          "googleSearch": "https://www.google.com/search?q=Gordon+Hayward"
+        },
+        {
+          "firstName": "Caleb",
+          "lastName": "Martin",
+          "googleSearch": "https://www.google.com/search?q=Caleb+Martin"
+        },
+        {
+          "firstName": "Cody",
+          "lastName": "Martin",
+          "googleSearch": "https://www.google.com/search?q=Cody+Martin"
+        },
+        {
+          "firstName": "Jalen",
+          "lastName": "McDaniels",
+          "googleSearch": "https://www.google.com/search?q=Jalen+McDaniels"
+        },
+        {
+          "firstName": "Malik",
+          "lastName": "Monk",
+          "googleSearch": "https://www.google.com/search?q=Malik+Monk"
+        },
+        {
+          "firstName": "Nick",
+          "lastName": "Richards",
+          "googleSearch": "https://www.google.com/search?q=Nick+Richards"
+        },
+        {
+          "firstName": "Grant",
+          "lastName": "Riller",
+          "googleSearch": "https://www.google.com/search?q=Grant+Riller"
+        },
+        {
+          "firstName": "Terry",
+          "lastName": "Rozier",
+          "googleSearch": "https://www.google.com/search?q=Terry+Rozier"
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Wanamaker",
+          "googleSearch": "https://www.google.com/search?q=Brad+Wanamaker"
+        },
+        {
+          "firstName": "P.J.",
+          "lastName": "Washington",
+          "googleSearch": "https://www.google.com/search?q=P.J.+Washington"
+        },
+        {
+          "firstName": "Cody",
+          "lastName": "Zeller",
+          "googleSearch": "https://www.google.com/search?q=Cody+Zeller"
+        }
+      ]
+    },
+    {
+      "id": 1610612756,
+      "name": "Phoenix Suns",
+      "players": [
+        {
+          "firstName": "Ty-Shon",
+          "lastName": "Alexander",
+          "googleSearch": "https://www.google.com/search?q=Ty-Shon+Alexander"
+        },
+        {
+          "firstName": "Deandre",
+          "lastName": "Ayton",
+          "googleSearch": "https://www.google.com/search?q=Deandre+Ayton"
+        },
+        {
+          "firstName": "Devin",
+          "lastName": "Booker",
+          "googleSearch": "https://www.google.com/search?q=Devin+Booker"
+        },
+        {
+          "firstName": "Mikal",
+          "lastName": "Bridges",
+          "googleSearch": "https://www.google.com/search?q=Mikal+Bridges"
+        },
+        {
+          "firstName": "Jevon",
+          "lastName": "Carter",
+          "googleSearch": "https://www.google.com/search?q=Jevon+Carter"
+        },
+        {
+          "firstName": "Torrey",
+          "lastName": "Craig",
+          "googleSearch": "https://www.google.com/search?q=Torrey+Craig"
+        },
+        {
+          "firstName": "Jae",
+          "lastName": "Crowder",
+          "googleSearch": "https://www.google.com/search?q=Jae+Crowder"
+        },
+        {
+          "firstName": "Langston",
+          "lastName": "Galloway",
+          "googleSearch": "https://www.google.com/search?q=Langston+Galloway"
+        },
+        {
+          "firstName": "Cameron",
+          "lastName": "Johnson",
+          "googleSearch": "https://www.google.com/search?q=Cameron+Johnson"
+        },
+        {
+          "firstName": "Frank",
+          "lastName": "Kaminsky",
+          "googleSearch": "https://www.google.com/search?q=Frank+Kaminsky"
+        },
+        {
+          "firstName": "E'Twaun",
+          "lastName": "Moore",
+          "googleSearch": "https://www.google.com/search?q=E'Twaun+Moore"
+        },
+        {
+          "firstName": "Abdel",
+          "lastName": "Nader",
+          "googleSearch": "https://www.google.com/search?q=Abdel+Nader"
+        },
+        {
+          "firstName": "Chris",
+          "lastName": "Paul",
+          "googleSearch": "https://www.google.com/search?q=Chris+Paul"
+        },
+        {
+          "firstName": "Cameron",
+          "lastName": "Payne",
+          "googleSearch": "https://www.google.com/search?q=Cameron+Payne"
+        },
+        {
+          "firstName": "Dario",
+          "lastName": "Saric",
+          "googleSearch": "https://www.google.com/search?q=Dario+Saric"
+        },
+        {
+          "firstName": "Jalen",
+          "lastName": "Smith",
+          "googleSearch": "https://www.google.com/search?q=Jalen+Smith"
+        }
+      ]
+    },
+    {
+      "id": 1610612757,
+      "name": "Portland Trail Blazers",
+      "players": [
+        {
+          "firstName": "Carmelo",
+          "lastName": "Anthony",
+          "googleSearch": "https://www.google.com/search?q=Carmelo+Anthony"
+        },
+        {
+          "firstName": "Keljin",
+          "lastName": "Blevins",
+          "googleSearch": "https://www.google.com/search?q=Keljin+Blevins"
+        },
+        {
+          "firstName": "Zach",
+          "lastName": "Collins",
+          "googleSearch": "https://www.google.com/search?q=Zach+Collins"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Covington",
+          "googleSearch": "https://www.google.com/search?q=Robert+Covington"
+        },
+        {
+          "firstName": "CJ",
+          "lastName": "Elleby",
+          "googleSearch": "https://www.google.com/search?q=CJ+Elleby"
+        },
+        {
+          "firstName": "Harry",
+          "lastName": "Giles III",
+          "googleSearch": "https://www.google.com/search?q=Harry+Giles III"
+        },
+        {
+          "firstName": "Rondae",
+          "lastName": "Hollis-Jefferson",
+          "googleSearch": "https://www.google.com/search?q=Rondae+Hollis-Jefferson"
+        },
+        {
+          "firstName": "Derrick",
+          "lastName": "Jones Jr.",
+          "googleSearch": "https://www.google.com/search?q=Derrick+Jones Jr."
+        },
+        {
+          "firstName": "Enes",
+          "lastName": "Kanter",
+          "googleSearch": "https://www.google.com/search?q=Enes+Kanter"
+        },
+        {
+          "firstName": "T.J.",
+          "lastName": "Leaf",
+          "googleSearch": "https://www.google.com/search?q=T.J.+Leaf"
+        },
+        {
+          "firstName": "Damian",
+          "lastName": "Lillard",
+          "googleSearch": "https://www.google.com/search?q=Damian+Lillard"
+        },
+        {
+          "firstName": "Nassir",
+          "lastName": "Little",
+          "googleSearch": "https://www.google.com/search?q=Nassir+Little"
+        },
+        {
+          "firstName": "CJ",
+          "lastName": "McCollum",
+          "googleSearch": "https://www.google.com/search?q=CJ+McCollum"
+        },
+        {
+          "firstName": "Jusuf",
+          "lastName": "Nurkic",
+          "googleSearch": "https://www.google.com/search?q=Jusuf+Nurkic"
+        },
+        {
+          "firstName": "Norman",
+          "lastName": "Powell",
+          "googleSearch": "https://www.google.com/search?q=Norman+Powell"
+        },
+        {
+          "firstName": "Anfernee",
+          "lastName": "Simons",
+          "googleSearch": "https://www.google.com/search?q=Anfernee+Simons"
+        }
+      ]
+    },
+    {
+      "id": 1610612741,
+      "name": "Chicago Bulls",
+      "players": [
+        {
+          "firstName": "Al-Farouq",
+          "lastName": "Aminu",
+          "googleSearch": "https://www.google.com/search?q=Al-Farouq+Aminu"
+        },
+        {
+          "firstName": "Ryan",
+          "lastName": "Arcidiacono",
+          "googleSearch": "https://www.google.com/search?q=Ryan+Arcidiacono"
+        },
+        {
+          "firstName": "Troy",
+          "lastName": "Brown Jr.",
+          "googleSearch": "https://www.google.com/search?q=Troy+Brown Jr."
+        },
+        {
+          "firstName": "Devon",
+          "lastName": "Dotson",
+          "googleSearch": "https://www.google.com/search?q=Devon+Dotson"
+        },
+        {
+          "firstName": "Cristiano",
+          "lastName": "Felicio",
+          "googleSearch": "https://www.google.com/search?q=Cristiano+Felicio"
+        },
+        {
+          "firstName": "Javonte",
+          "lastName": "Green",
+          "googleSearch": "https://www.google.com/search?q=Javonte+Green"
+        },
+        {
+          "firstName": "Zach",
+          "lastName": "LaVine",
+          "googleSearch": "https://www.google.com/search?q=Zach+LaVine"
+        },
+        {
+          "firstName": "Lauri",
+          "lastName": "Markkanen",
+          "googleSearch": "https://www.google.com/search?q=Lauri+Markkanen"
+        },
+        {
+          "firstName": "Adam",
+          "lastName": "Mokoka",
+          "googleSearch": "https://www.google.com/search?q=Adam+Mokoka"
+        },
+        {
+          "firstName": "Tomas",
+          "lastName": "Satoransky",
+          "googleSearch": "https://www.google.com/search?q=Tomas+Satoransky"
+        },
+        {
+          "firstName": "Garrett",
+          "lastName": "Temple",
+          "googleSearch": "https://www.google.com/search?q=Garrett+Temple"
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Theis",
+          "googleSearch": "https://www.google.com/search?q=Daniel+Theis"
+        },
+        {
+          "firstName": "Denzel",
+          "lastName": "Valentine",
+          "googleSearch": "https://www.google.com/search?q=Denzel+Valentine"
+        },
+        {
+          "firstName": "Nikola",
+          "lastName": "Vucevic",
+          "googleSearch": "https://www.google.com/search?q=Nikola+Vucevic"
+        },
+        {
+          "firstName": "Coby",
+          "lastName": "White",
+          "googleSearch": "https://www.google.com/search?q=Coby+White"
+        },
+        {
+          "firstName": "Patrick",
+          "lastName": "Williams",
+          "googleSearch": "https://www.google.com/search?q=Patrick+Williams"
+        },
+        {
+          "firstName": "Thaddeus",
+          "lastName": "Young",
+          "googleSearch": "https://www.google.com/search?q=Thaddeus+Young"
+        }
+      ]
+    },
+    {
+      "id": 1610612758,
+      "name": "Sacramento Kings",
+      "players": [
+        {
+          "firstName": "Marvin",
+          "lastName": "Bagley III",
+          "googleSearch": "https://www.google.com/search?q=Marvin+Bagley III"
+        },
+        {
+          "firstName": "Harrison",
+          "lastName": "Barnes",
+          "googleSearch": "https://www.google.com/search?q=Harrison+Barnes"
+        },
+        {
+          "firstName": "Terence",
+          "lastName": "Davis",
+          "googleSearch": "https://www.google.com/search?q=Terence+Davis"
+        },
+        {
+          "firstName": "De'Aaron",
+          "lastName": "Fox",
+          "googleSearch": "https://www.google.com/search?q=De'Aaron+Fox"
+        },
+        {
+          "firstName": "Kyle",
+          "lastName": "Guy",
+          "googleSearch": "https://www.google.com/search?q=Kyle+Guy"
+        },
+        {
+          "firstName": "Tyrese",
+          "lastName": "Haliburton",
+          "googleSearch": "https://www.google.com/search?q=Tyrese+Haliburton"
+        },
+        {
+          "firstName": "Maurice",
+          "lastName": "Harkless",
+          "googleSearch": "https://www.google.com/search?q=Maurice+Harkless"
+        },
+        {
+          "firstName": "Buddy",
+          "lastName": "Hield",
+          "googleSearch": "https://www.google.com/search?q=Buddy+Hield"
+        },
+        {
+          "firstName": "Richaun",
+          "lastName": "Holmes",
+          "googleSearch": "https://www.google.com/search?q=Richaun+Holmes"
+        },
+        {
+          "firstName": "Justin",
+          "lastName": "James",
+          "googleSearch": "https://www.google.com/search?q=Justin+James"
+        },
+        {
+          "firstName": "Damian",
+          "lastName": "Jones",
+          "googleSearch": "https://www.google.com/search?q=Damian+Jones"
+        },
+        {
+          "firstName": "Louis",
+          "lastName": "King",
+          "googleSearch": "https://www.google.com/search?q=Louis+King"
+        },
+        {
+          "firstName": "Chimezie",
+          "lastName": "Metu",
+          "googleSearch": "https://www.google.com/search?q=Chimezie+Metu"
+        },
+        {
+          "firstName": "Jahmi'us",
+          "lastName": "Ramsey",
+          "googleSearch": "https://www.google.com/search?q=Jahmi'us+Ramsey"
+        },
+        {
+          "firstName": "Hassan",
+          "lastName": "Whiteside",
+          "googleSearch": "https://www.google.com/search?q=Hassan+Whiteside"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Woodard II",
+          "googleSearch": "https://www.google.com/search?q=Robert+Woodard II"
+        },
+        {
+          "firstName": "Delon",
+          "lastName": "Wright",
+          "googleSearch": "https://www.google.com/search?q=Delon+Wright"
+        }
+      ]
+    },
+    {
+      "id": 1610612759,
+      "name": "San Antonio Spurs",
+      "players": [
+        {
+          "firstName": "Keita",
+          "lastName": "Bates-Diop",
+          "googleSearch": "https://www.google.com/search?q=Keita+Bates-Diop"
+        },
+        {
+          "firstName": "DeMar",
+          "lastName": "DeRozan",
+          "googleSearch": "https://www.google.com/search?q=DeMar+DeRozan"
+        },
+        {
+          "firstName": "Gorgui",
+          "lastName": "Dieng",
+          "googleSearch": "https://www.google.com/search?q=Gorgui+Dieng"
+        },
+        {
+          "firstName": "Drew",
+          "lastName": "Eubanks",
+          "googleSearch": "https://www.google.com/search?q=Drew+Eubanks"
+        },
+        {
+          "firstName": "Rudy",
+          "lastName": "Gay",
+          "googleSearch": "https://www.google.com/search?q=Rudy+Gay"
+        },
+        {
+          "firstName": "Keldon",
+          "lastName": "Johnson",
+          "googleSearch": "https://www.google.com/search?q=Keldon+Johnson"
+        },
+        {
+          "firstName": "Tre",
+          "lastName": "Jones",
+          "googleSearch": "https://www.google.com/search?q=Tre+Jones"
+        },
+        {
+          "firstName": "Trey",
+          "lastName": "Lyles",
+          "googleSearch": "https://www.google.com/search?q=Trey+Lyles"
+        },
+        {
+          "firstName": "Patty",
+          "lastName": "Mills",
+          "googleSearch": "https://www.google.com/search?q=Patty+Mills"
+        },
+        {
+          "firstName": "Dejounte",
+          "lastName": "Murray",
+          "googleSearch": "https://www.google.com/search?q=Dejounte+Murray"
+        },
+        {
+          "firstName": "Jakob",
+          "lastName": "Poeltl",
+          "googleSearch": "https://www.google.com/search?q=Jakob+Poeltl"
+        },
+        {
+          "firstName": "Luka",
+          "lastName": "Samanic",
+          "googleSearch": "https://www.google.com/search?q=Luka+Samanic"
+        },
+        {
+          "firstName": "Devin",
+          "lastName": "Vassell",
+          "googleSearch": "https://www.google.com/search?q=Devin+Vassell"
+        },
+        {
+          "firstName": "Lonnie",
+          "lastName": "Walker IV",
+          "googleSearch": "https://www.google.com/search?q=Lonnie+Walker IV"
+        },
+        {
+          "firstName": "Quinndary",
+          "lastName": "Weatherspoon",
+          "googleSearch": "https://www.google.com/search?q=Quinndary+Weatherspoon"
+        },
+        {
+          "firstName": "Derrick",
+          "lastName": "White",
+          "googleSearch": "https://www.google.com/search?q=Derrick+White"
+        }
+      ]
+    },
+    {
+      "id": 1610612761,
+      "name": "Toronto Raptors",
+      "players": [
+        {
+          "firstName": "OG",
+          "lastName": "Anunoby",
+          "googleSearch": "https://www.google.com/search?q=OG+Anunoby"
+        },
+        {
+          "firstName": "Aron",
+          "lastName": "Baynes",
+          "googleSearch": "https://www.google.com/search?q=Aron+Baynes"
+        },
+        {
+          "firstName": "DeAndre'",
+          "lastName": "Bembry",
+          "googleSearch": "https://www.google.com/search?q=DeAndre'+Bembry"
+        },
+        {
+          "firstName": "Khem",
+          "lastName": "Birch",
+          "googleSearch": "https://www.google.com/search?q=Khem+Birch"
+        },
+        {
+          "firstName": "Chris",
+          "lastName": "Boucher",
+          "googleSearch": "https://www.google.com/search?q=Chris+Boucher"
+        },
+        {
+          "firstName": "Malachi",
+          "lastName": "Flynn",
+          "googleSearch": "https://www.google.com/search?q=Malachi+Flynn"
+        },
+        {
+          "firstName": "Freddie",
+          "lastName": "Gillespie",
+          "googleSearch": "https://www.google.com/search?q=Freddie+Gillespie"
+        },
+        {
+          "firstName": "Jalen",
+          "lastName": "Harris",
+          "googleSearch": "https://www.google.com/search?q=Jalen+Harris"
+        },
+        {
+          "firstName": "Rodney",
+          "lastName": "Hood",
+          "googleSearch": "https://www.google.com/search?q=Rodney+Hood"
+        },
+        {
+          "firstName": "Stanley",
+          "lastName": "Johnson",
+          "googleSearch": "https://www.google.com/search?q=Stanley+Johnson"
+        },
+        {
+          "firstName": "Kyle",
+          "lastName": "Lowry",
+          "googleSearch": "https://www.google.com/search?q=Kyle+Lowry"
+        },
+        {
+          "firstName": "Pascal",
+          "lastName": "Siakam",
+          "googleSearch": "https://www.google.com/search?q=Pascal+Siakam"
+        },
+        {
+          "firstName": "Gary",
+          "lastName": "Trent Jr.",
+          "googleSearch": "https://www.google.com/search?q=Gary+Trent Jr."
+        },
+        {
+          "firstName": "Fred",
+          "lastName": "VanVleet",
+          "googleSearch": "https://www.google.com/search?q=Fred+VanVleet"
+        },
+        {
+          "firstName": "Yuta",
+          "lastName": "Watanabe",
+          "googleSearch": "https://www.google.com/search?q=Yuta+Watanabe"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "Watson",
+          "googleSearch": "https://www.google.com/search?q=Paul+Watson"
+        }
+      ]
+    },
+    {
+      "id": 1610612739,
+      "name": "Cleveland Cavaliers",
+      "players": [
+        {
+          "firstName": "Jarrett",
+          "lastName": "Allen",
+          "googleSearch": "https://www.google.com/search?q=Jarrett+Allen"
+        },
+        {
+          "firstName": "Matthew",
+          "lastName": "Dellavedova",
+          "googleSearch": "https://www.google.com/search?q=Matthew+Dellavedova"
+        },
+        {
+          "firstName": "Damyean",
+          "lastName": "Dotson",
+          "googleSearch": "https://www.google.com/search?q=Damyean+Dotson"
+        },
+        {
+          "firstName": "Darius",
+          "lastName": "Garland",
+          "googleSearch": "https://www.google.com/search?q=Darius+Garland"
+        },
+        {
+          "firstName": "Isaiah",
+          "lastName": "Hartenstein",
+          "googleSearch": "https://www.google.com/search?q=Isaiah+Hartenstein"
+        },
+        {
+          "firstName": "Mfiondu",
+          "lastName": "Kabengele",
+          "googleSearch": "https://www.google.com/search?q=Mfiondu+Kabengele"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Love",
+          "googleSearch": "https://www.google.com/search?q=Kevin+Love"
+        },
+        {
+          "firstName": "Jeremiah",
+          "lastName": "Martin",
+          "googleSearch": "https://www.google.com/search?q=Jeremiah+Martin"
+        },
+        {
+          "firstName": "Larry",
+          "lastName": "Nance Jr.",
+          "googleSearch": "https://www.google.com/search?q=Larry+Nance Jr."
+        },
+        {
+          "firstName": "Isaac",
+          "lastName": "Okoro",
+          "googleSearch": "https://www.google.com/search?q=Isaac+Okoro"
+        },
+        {
+          "firstName": "Cedi",
+          "lastName": "Osman",
+          "googleSearch": "https://www.google.com/search?q=Cedi+Osman"
+        },
+        {
+          "firstName": "Taurean",
+          "lastName": "Prince",
+          "googleSearch": "https://www.google.com/search?q=Taurean+Prince"
+        },
+        {
+          "firstName": "Collin",
+          "lastName": "Sexton",
+          "googleSearch": "https://www.google.com/search?q=Collin+Sexton"
+        },
+        {
+          "firstName": "Lamar",
+          "lastName": "Stevens",
+          "googleSearch": "https://www.google.com/search?q=Lamar+Stevens"
+        },
+        {
+          "firstName": "Brodric",
+          "lastName": "Thomas",
+          "googleSearch": "https://www.google.com/search?q=Brodric+Thomas"
+        },
+        {
+          "firstName": "Anderson",
+          "lastName": "Varejao",
+          "googleSearch": "https://www.google.com/search?q=Anderson+Varejao"
+        },
+        {
+          "firstName": "Dean",
+          "lastName": "Wade",
+          "googleSearch": "https://www.google.com/search?q=Dean+Wade"
+        },
+        {
+          "firstName": "Dylan",
+          "lastName": "Windler",
+          "googleSearch": "https://www.google.com/search?q=Dylan+Windler"
+        }
+      ]
+    },
+    {
+      "id": 1610612762,
+      "name": "Utah Jazz",
+      "players": [
+        {
+          "firstName": "Udoka",
+          "lastName": "Azubuike",
+          "googleSearch": "https://www.google.com/search?q=Udoka+Azubuike"
+        },
+        {
+          "firstName": "Bojan",
+          "lastName": "Bogdanovic",
+          "googleSearch": "https://www.google.com/search?q=Bojan+Bogdanovic"
+        },
+        {
+          "firstName": "Jarrell",
+          "lastName": "Brantley",
+          "googleSearch": "https://www.google.com/search?q=Jarrell+Brantley"
+        },
+        {
+          "firstName": "Jordan",
+          "lastName": "Clarkson",
+          "googleSearch": "https://www.google.com/search?q=Jordan+Clarkson"
+        },
+        {
+          "firstName": "Mike",
+          "lastName": "Conley",
+          "googleSearch": "https://www.google.com/search?q=Mike+Conley"
+        },
+        {
+          "firstName": "Derrick",
+          "lastName": "Favors",
+          "googleSearch": "https://www.google.com/search?q=Derrick+Favors"
+        },
+        {
+          "firstName": "Trent",
+          "lastName": "Forrest",
+          "googleSearch": "https://www.google.com/search?q=Trent+Forrest"
+        },
+        {
+          "firstName": "Rudy",
+          "lastName": "Gobert",
+          "googleSearch": "https://www.google.com/search?q=Rudy+Gobert"
+        },
+        {
+          "firstName": "Elijah",
+          "lastName": "Hughes",
+          "googleSearch": "https://www.google.com/search?q=Elijah+Hughes"
+        },
+        {
+          "firstName": "Ersan",
+          "lastName": "Ilyasova",
+          "googleSearch": "https://www.google.com/search?q=Ersan+Ilyasova"
+        },
+        {
+          "firstName": "Joe",
+          "lastName": "Ingles",
+          "googleSearch": "https://www.google.com/search?q=Joe+Ingles"
+        },
+        {
+          "firstName": "Donovan",
+          "lastName": "Mitchell",
+          "googleSearch": "https://www.google.com/search?q=Donovan+Mitchell"
+        },
+        {
+          "firstName": "Juwan",
+          "lastName": "Morgan",
+          "googleSearch": "https://www.google.com/search?q=Juwan+Morgan"
+        },
+        {
+          "firstName": "Georges",
+          "lastName": "Niang",
+          "googleSearch": "https://www.google.com/search?q=Georges+Niang"
+        },
+        {
+          "firstName": "Royce",
+          "lastName": "O'Neale",
+          "googleSearch": "https://www.google.com/search?q=Royce+O'Neale"
+        },
+        {
+          "firstName": "Miye",
+          "lastName": "Oni",
+          "googleSearch": "https://www.google.com/search?q=Miye+Oni"
+        },
+        {
+          "firstName": "Matt",
+          "lastName": "Thomas",
+          "googleSearch": "https://www.google.com/search?q=Matt+Thomas"
+        }
+      ]
+    },
+    {
+      "id": 1610612764,
+      "name": "Washington Wizards",
+      "players": [
+        {
+          "firstName": "Deni",
+          "lastName": "Avdija",
+          "googleSearch": "https://www.google.com/search?q=Deni+Avdija"
+        },
+        {
+          "firstName": "Bradley",
+          "lastName": "Beal",
+          "googleSearch": "https://www.google.com/search?q=Bradley+Beal"
+        },
+        {
+          "firstName": "Davis",
+          "lastName": "Bertans",
+          "googleSearch": "https://www.google.com/search?q=Davis+Bertans"
+        },
+        {
+          "firstName": "Isaac",
+          "lastName": "Bonga",
+          "googleSearch": "https://www.google.com/search?q=Isaac+Bonga"
+        },
+        {
+          "firstName": "Thomas",
+          "lastName": "Bryant",
+          "googleSearch": "https://www.google.com/search?q=Thomas+Bryant"
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Gafford",
+          "googleSearch": "https://www.google.com/search?q=Daniel+Gafford"
+        },
+        {
+          "firstName": "Anthony",
+          "lastName": "Gill",
+          "googleSearch": "https://www.google.com/search?q=Anthony+Gill"
+        },
+        {
+          "firstName": "Rui",
+          "lastName": "Hachimura",
+          "googleSearch": "https://www.google.com/search?q=Rui+Hachimura"
+        },
+        {
+          "firstName": "Chandler",
+          "lastName": "Hutchison",
+          "googleSearch": "https://www.google.com/search?q=Chandler+Hutchison"
+        },
+        {
+          "firstName": "Alex",
+          "lastName": "Len",
+          "googleSearch": "https://www.google.com/search?q=Alex+Len"
+        },
+        {
+          "firstName": "Robin",
+          "lastName": "Lopez",
+          "googleSearch": "https://www.google.com/search?q=Robin+Lopez"
+        },
+        {
+          "firstName": "Garrison",
+          "lastName": "Mathews",
+          "googleSearch": "https://www.google.com/search?q=Garrison+Mathews"
+        },
+        {
+          "firstName": "Raul",
+          "lastName": "Neto",
+          "googleSearch": "https://www.google.com/search?q=Raul+Neto"
+        },
+        {
+          "firstName": "Ish",
+          "lastName": "Smith",
+          "googleSearch": "https://www.google.com/search?q=Ish+Smith"
+        },
+        {
+          "firstName": "Russell",
+          "lastName": "Westbrook",
+          "googleSearch": "https://www.google.com/search?q=Russell+Westbrook"
+        },
+        {
+          "firstName": "Cassius",
+          "lastName": "Winston",
+          "googleSearch": "https://www.google.com/search?q=Cassius+Winston"
+        }
+      ]
+    },
+    {
+      "id": 1610612742,
+      "name": "Dallas Mavericks",
+      "players": [
+        {
+          "firstName": "Tyler",
+          "lastName": "Bey",
+          "googleSearch": "https://www.google.com/search?q=Tyler+Bey"
+        },
+        {
+          "firstName": "Jalen",
+          "lastName": "Brunson",
+          "googleSearch": "https://www.google.com/search?q=Jalen+Brunson"
+        },
+        {
+          "firstName": "Trey",
+          "lastName": "Burke",
+          "googleSearch": "https://www.google.com/search?q=Trey+Burke"
+        },
+        {
+          "firstName": "Willie",
+          "lastName": "Cauley-Stein",
+          "googleSearch": "https://www.google.com/search?q=Willie+Cauley-Stein"
+        },
+        {
+          "firstName": "Luka",
+          "lastName": "Doncic",
+          "googleSearch": "https://www.google.com/search?q=Luka+Doncic"
+        },
+        {
+          "firstName": "Dorian",
+          "lastName": "Finney-Smith",
+          "googleSearch": "https://www.google.com/search?q=Dorian+Finney-Smith"
+        },
+        {
+          "firstName": "Josh",
+          "lastName": "Green",
+          "googleSearch": "https://www.google.com/search?q=Josh+Green"
+        },
+        {
+          "firstName": "Tim",
+          "lastName": "Hardaway Jr.",
+          "googleSearch": "https://www.google.com/search?q=Tim+Hardaway Jr."
+        },
+        {
+          "firstName": "Nate",
+          "lastName": "Hinton",
+          "googleSearch": "https://www.google.com/search?q=Nate+Hinton"
+        },
+        {
+          "firstName": "Maxi",
+          "lastName": "Kleber",
+          "googleSearch": "https://www.google.com/search?q=Maxi+Kleber"
+        },
+        {
+          "firstName": "Boban",
+          "lastName": "Marjanovic",
+          "googleSearch": "https://www.google.com/search?q=Boban+Marjanovic"
+        },
+        {
+          "firstName": "Nicolo",
+          "lastName": "Melli",
+          "googleSearch": "https://www.google.com/search?q=Nicolo+Melli"
+        },
+        {
+          "firstName": "Kristaps",
+          "lastName": "Porzingis",
+          "googleSearch": "https://www.google.com/search?q=Kristaps+Porzingis"
+        },
+        {
+          "firstName": "Dwight",
+          "lastName": "Powell",
+          "googleSearch": "https://www.google.com/search?q=Dwight+Powell"
+        },
+        {
+          "firstName": "JJ",
+          "lastName": "Redick",
+          "googleSearch": "https://www.google.com/search?q=JJ+Redick"
+        },
+        {
+          "firstName": "Josh",
+          "lastName": "Richardson",
+          "googleSearch": "https://www.google.com/search?q=Josh+Richardson"
+        },
+        {
+          "firstName": "Tyrell",
+          "lastName": "Terry",
+          "googleSearch": "https://www.google.com/search?q=Tyrell+Terry"
+        }
+      ]
+    },
+    {
+      "id": 1610612743,
+      "name": "Denver Nuggets",
+      "players": [
+        {
+          "firstName": "Will",
+          "lastName": "Barton",
+          "googleSearch": "https://www.google.com/search?q=Will+Barton"
+        },
+        {
+          "firstName": "Bol",
+          "lastName": "Bol",
+          "googleSearch": "https://www.google.com/search?q=Bol+Bol"
+        },
+        {
+          "firstName": "Facundo",
+          "lastName": "Campazzo",
+          "googleSearch": "https://www.google.com/search?q=Facundo+Campazzo"
+        },
+        {
+          "firstName": "Vlatko",
+          "lastName": "Cancar",
+          "googleSearch": "https://www.google.com/search?q=Vlatko+Cancar"
+        },
+        {
+          "firstName": "PJ",
+          "lastName": "Dozier",
+          "googleSearch": "https://www.google.com/search?q=PJ+Dozier"
+        },
+        {
+          "firstName": "Aaron",
+          "lastName": "Gordon",
+          "googleSearch": "https://www.google.com/search?q=Aaron+Gordon"
+        },
+        {
+          "firstName": "JaMychal",
+          "lastName": "Green",
+          "googleSearch": "https://www.google.com/search?q=JaMychal+Green"
+        },
+        {
+          "firstName": "Shaquille",
+          "lastName": "Harrison",
+          "googleSearch": "https://www.google.com/search?q=Shaquille+Harrison"
+        },
+        {
+          "firstName": "Markus",
+          "lastName": "Howard",
+          "googleSearch": "https://www.google.com/search?q=Markus+Howard"
+        },
+        {
+          "firstName": "Nikola",
+          "lastName": "Jokic",
+          "googleSearch": "https://www.google.com/search?q=Nikola+Jokic"
+        },
+        {
+          "firstName": "JaVale",
+          "lastName": "McGee",
+          "googleSearch": "https://www.google.com/search?q=JaVale+McGee"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "Millsap",
+          "googleSearch": "https://www.google.com/search?q=Paul+Millsap"
+        },
+        {
+          "firstName": "Monte",
+          "lastName": "Morris",
+          "googleSearch": "https://www.google.com/search?q=Monte+Morris"
+        },
+        {
+          "firstName": "Jamal",
+          "lastName": "Murray",
+          "googleSearch": "https://www.google.com/search?q=Jamal+Murray"
+        },
+        {
+          "firstName": "Zeke",
+          "lastName": "Nnaji",
+          "googleSearch": "https://www.google.com/search?q=Zeke+Nnaji"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Porter Jr.",
+          "googleSearch": "https://www.google.com/search?q=Michael+Porter Jr."
+        },
+        {
+          "firstName": "Austin",
+          "lastName": "Rivers",
+          "googleSearch": "https://www.google.com/search?q=Austin+Rivers"
+        }
+      ]
+    },
+    {
+      "id": 1610612765,
+      "name": "Detroit Pistons",
+      "players": [
+        {
+          "firstName": "Saddiq",
+          "lastName": "Bey",
+          "googleSearch": "https://www.google.com/search?q=Saddiq+Bey"
+        },
+        {
+          "firstName": "Tyler",
+          "lastName": "Cook",
+          "googleSearch": "https://www.google.com/search?q=Tyler+Cook"
+        },
+        {
+          "firstName": "Hamidou",
+          "lastName": "Diallo",
+          "googleSearch": "https://www.google.com/search?q=Hamidou+Diallo"
+        },
+        {
+          "firstName": "Sekou",
+          "lastName": "Doumbouya",
+          "googleSearch": "https://www.google.com/search?q=Sekou+Doumbouya"
+        },
+        {
+          "firstName": "Wayne",
+          "lastName": "Ellington",
+          "googleSearch": "https://www.google.com/search?q=Wayne+Ellington"
+        },
+        {
+          "firstName": "Jerami",
+          "lastName": "Grant",
+          "googleSearch": "https://www.google.com/search?q=Jerami+Grant"
+        },
+        {
+          "firstName": "Killian",
+          "lastName": "Hayes",
+          "googleSearch": "https://www.google.com/search?q=Killian+Hayes"
+        },
+        {
+          "firstName": "Frank",
+          "lastName": "Jackson",
+          "googleSearch": "https://www.google.com/search?q=Frank+Jackson"
+        },
+        {
+          "firstName": "Josh",
+          "lastName": "Jackson",
+          "googleSearch": "https://www.google.com/search?q=Josh+Jackson"
+        },
+        {
+          "firstName": "Cory",
+          "lastName": "Joseph",
+          "googleSearch": "https://www.google.com/search?q=Cory+Joseph"
+        },
+        {
+          "firstName": "Saben",
+          "lastName": "Lee",
+          "googleSearch": "https://www.google.com/search?q=Saben+Lee"
+        },
+        {
+          "firstName": "Rodney",
+          "lastName": "McGruder",
+          "googleSearch": "https://www.google.com/search?q=Rodney+McGruder"
+        },
+        {
+          "firstName": "Jahlil",
+          "lastName": "Okafor",
+          "googleSearch": "https://www.google.com/search?q=Jahlil+Okafor"
+        },
+        {
+          "firstName": "Mason",
+          "lastName": "Plumlee",
+          "googleSearch": "https://www.google.com/search?q=Mason+Plumlee"
+        },
+        {
+          "firstName": "Deividas",
+          "lastName": "Sirvydis",
+          "googleSearch": "https://www.google.com/search?q=Deividas+Sirvydis"
+        },
+        {
+          "firstName": "Dennis",
+          "lastName": "Smith Jr.",
+          "googleSearch": "https://www.google.com/search?q=Dennis+Smith Jr."
+        },
+        {
+          "firstName": "Isaiah",
+          "lastName": "Stewart",
+          "googleSearch": "https://www.google.com/search?q=Isaiah+Stewart"
+        }
+      ]
+    },
+    {
+      "id": 1610612744,
+      "name": "Golden State Warriors",
+      "players": [
+        {
+          "firstName": "Kent",
+          "lastName": "Bazemore",
+          "googleSearch": "https://www.google.com/search?q=Kent+Bazemore"
+        },
+        {
+          "firstName": "Jordan",
+          "lastName": "Bell",
+          "googleSearch": "https://www.google.com/search?q=Jordan+Bell"
+        },
+        {
+          "firstName": "Stephen",
+          "lastName": "Curry",
+          "googleSearch": "https://www.google.com/search?q=Stephen+Curry"
+        },
+        {
+          "firstName": "Draymond",
+          "lastName": "Green",
+          "googleSearch": "https://www.google.com/search?q=Draymond+Green"
+        },
+        {
+          "firstName": "Damion",
+          "lastName": "Lee",
+          "googleSearch": "https://www.google.com/search?q=Damion+Lee"
+        },
+        {
+          "firstName": "Kevon",
+          "lastName": "Looney",
+          "googleSearch": "https://www.google.com/search?q=Kevon+Looney"
+        },
+        {
+          "firstName": "Nico",
+          "lastName": "Mannion",
+          "googleSearch": "https://www.google.com/search?q=Nico+Mannion"
+        },
+        {
+          "firstName": "Mychal",
+          "lastName": "Mulder",
+          "googleSearch": "https://www.google.com/search?q=Mychal+Mulder"
+        },
+        {
+          "firstName": "Kelly",
+          "lastName": "Oubre Jr.",
+          "googleSearch": "https://www.google.com/search?q=Kelly+Oubre Jr."
+        },
+        {
+          "firstName": "Eric",
+          "lastName": "Paschall",
+          "googleSearch": "https://www.google.com/search?q=Eric+Paschall"
+        },
+        {
+          "firstName": "Jordan",
+          "lastName": "Poole",
+          "googleSearch": "https://www.google.com/search?q=Jordan+Poole"
+        },
+        {
+          "firstName": "Alen",
+          "lastName": "Smailagic",
+          "googleSearch": "https://www.google.com/search?q=Alen+Smailagic"
+        },
+        {
+          "firstName": "Klay",
+          "lastName": "Thompson",
+          "googleSearch": "https://www.google.com/search?q=Klay+Thompson"
+        },
+        {
+          "firstName": "Juan",
+          "lastName": "Toscano-Anderson",
+          "googleSearch": "https://www.google.com/search?q=Juan+Toscano-Anderson"
+        },
+        {
+          "firstName": "Andrew",
+          "lastName": "Wiggins",
+          "googleSearch": "https://www.google.com/search?q=Andrew+Wiggins"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Wiseman",
+          "googleSearch": "https://www.google.com/search?q=James+Wiseman"
+        }
+      ]
+    },
+    {
+      "id": 1610612745,
+      "name": "Houston Rockets",
+      "players": [
+        {
+          "firstName": "D.J.",
+          "lastName": "Augustin",
+          "googleSearch": "https://www.google.com/search?q=D.J.+Augustin"
+        },
+        {
+          "firstName": "Avery",
+          "lastName": "Bradley",
+          "googleSearch": "https://www.google.com/search?q=Avery+Bradley"
+        },
+        {
+          "firstName": "Armoni",
+          "lastName": "Brooks",
+          "googleSearch": "https://www.google.com/search?q=Armoni+Brooks"
+        },
+        {
+          "firstName": "Sterling",
+          "lastName": "Brown",
+          "googleSearch": "https://www.google.com/search?q=Sterling+Brown"
+        },
+        {
+          "firstName": "Dante",
+          "lastName": "Exum",
+          "googleSearch": "https://www.google.com/search?q=Dante+Exum"
+        },
+        {
+          "firstName": "Eric",
+          "lastName": "Gordon",
+          "googleSearch": "https://www.google.com/search?q=Eric+Gordon"
+        },
+        {
+          "firstName": "Danuel",
+          "lastName": "House Jr.",
+          "googleSearch": "https://www.google.com/search?q=Danuel+House Jr."
+        },
+        {
+          "firstName": "Anthony",
+          "lastName": "Lamb",
+          "googleSearch": "https://www.google.com/search?q=Anthony+Lamb"
+        },
+        {
+          "firstName": "Kenyon",
+          "lastName": "Martin Jr.",
+          "googleSearch": "https://www.google.com/search?q=Kenyon+Martin Jr."
+        },
+        {
+          "firstName": "David",
+          "lastName": "Nwaba",
+          "googleSearch": "https://www.google.com/search?q=David+Nwaba"
+        },
+        {
+          "firstName": "Cameron",
+          "lastName": "Oliver",
+          "googleSearch": "https://www.google.com/search?q=Cameron+Oliver"
+        },
+        {
+          "firstName": "Kelly",
+          "lastName": "Olynyk",
+          "googleSearch": "https://www.google.com/search?q=Kelly+Olynyk"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Porter Jr.",
+          "googleSearch": "https://www.google.com/search?q=Kevin+Porter Jr."
+        },
+        {
+          "firstName": "Cameron",
+          "lastName": "Reynolds",
+          "googleSearch": "https://www.google.com/search?q=Cameron+Reynolds"
+        },
+        {
+          "firstName": "Jae'Sean",
+          "lastName": "Tate",
+          "googleSearch": "https://www.google.com/search?q=Jae'Sean+Tate"
+        },
+        {
+          "firstName": "Khyri",
+          "lastName": "Thomas",
+          "googleSearch": "https://www.google.com/search?q=Khyri+Thomas"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Wall",
+          "googleSearch": "https://www.google.com/search?q=John+Wall"
+        },
+        {
+          "firstName": "D.J.",
+          "lastName": "Wilson",
+          "googleSearch": "https://www.google.com/search?q=D.J.+Wilson"
+        },
+        {
+          "firstName": "Christian",
+          "lastName": "Wood",
+          "googleSearch": "https://www.google.com/search?q=Christian+Wood"
+        }
+      ]
+    },
+    {
+      "id": 1610612754,
+      "name": "Indiana Pacers",
+      "players": [
+        {
+          "firstName": "Goga",
+          "lastName": "Bitadze",
+          "googleSearch": "https://www.google.com/search?q=Goga+Bitadze"
+        },
+        {
+          "firstName": "Amida",
+          "lastName": "Brimah",
+          "googleSearch": "https://www.google.com/search?q=Amida+Brimah"
+        },
+        {
+          "firstName": "Oshae",
+          "lastName": "Brissett",
+          "googleSearch": "https://www.google.com/search?q=Oshae+Brissett"
+        },
+        {
+          "firstName": "Malcolm",
+          "lastName": "Brogdon",
+          "googleSearch": "https://www.google.com/search?q=Malcolm+Brogdon"
+        },
+        {
+          "firstName": "Aaron",
+          "lastName": "Holiday",
+          "googleSearch": "https://www.google.com/search?q=Aaron+Holiday"
+        },
+        {
+          "firstName": "Justin",
+          "lastName": "Holiday",
+          "googleSearch": "https://www.google.com/search?q=Justin+Holiday"
+        },
+        {
+          "firstName": "Jeremy",
+          "lastName": "Lamb",
+          "googleSearch": "https://www.google.com/search?q=Jeremy+Lamb"
+        },
+        {
+          "firstName": "Caris",
+          "lastName": "LeVert",
+          "googleSearch": "https://www.google.com/search?q=Caris+LeVert"
+        },
+        {
+          "firstName": "Kelan",
+          "lastName": "Martin",
+          "googleSearch": "https://www.google.com/search?q=Kelan+Martin"
+        },
+        {
+          "firstName": "T.J.",
+          "lastName": "McConnell",
+          "googleSearch": "https://www.google.com/search?q=T.J.+McConnell"
+        },
+        {
+          "firstName": "Doug",
+          "lastName": "McDermott",
+          "googleSearch": "https://www.google.com/search?q=Doug+McDermott"
+        },
+        {
+          "firstName": "Domantas",
+          "lastName": "Sabonis",
+          "googleSearch": "https://www.google.com/search?q=Domantas+Sabonis"
+        },
+        {
+          "firstName": "JaKarr",
+          "lastName": "Sampson",
+          "googleSearch": "https://www.google.com/search?q=JaKarr+Sampson"
+        },
+        {
+          "firstName": "Cassius",
+          "lastName": "Stanley",
+          "googleSearch": "https://www.google.com/search?q=Cassius+Stanley"
+        },
+        {
+          "firstName": "Edmond",
+          "lastName": "Sumner",
+          "googleSearch": "https://www.google.com/search?q=Edmond+Sumner"
+        },
+        {
+          "firstName": "Myles",
+          "lastName": "Turner",
+          "googleSearch": "https://www.google.com/search?q=Myles+Turner"
+        },
+        {
+          "firstName": "T.J.",
+          "lastName": "Warren",
+          "googleSearch": "https://www.google.com/search?q=T.J.+Warren"
+        }
+      ]
+    },
+    {
+      "id": 1610612746,
+      "name": "Los Angeles Clippers",
+      "players": [
+        {
+          "firstName": "Nicolas",
+          "lastName": "Batum",
+          "googleSearch": "https://www.google.com/search?q=Nicolas+Batum"
+        },
+        {
+          "firstName": "Patrick",
+          "lastName": "Beverley",
+          "googleSearch": "https://www.google.com/search?q=Patrick+Beverley"
+        },
+        {
+          "firstName": "Amir",
+          "lastName": "Coffey",
+          "googleSearch": "https://www.google.com/search?q=Amir+Coffey"
+        },
+        {
+          "firstName": "DeMarcus",
+          "lastName": "Cousins",
+          "googleSearch": "https://www.google.com/search?q=DeMarcus+Cousins"
+        },
+        {
+          "firstName": "Yogi",
+          "lastName": "Ferrell",
+          "googleSearch": "https://www.google.com/search?q=Yogi+Ferrell"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "George",
+          "googleSearch": "https://www.google.com/search?q=Paul+George"
+        },
+        {
+          "firstName": "Serge",
+          "lastName": "Ibaka",
+          "googleSearch": "https://www.google.com/search?q=Serge+Ibaka"
+        },
+        {
+          "firstName": "Reggie",
+          "lastName": "Jackson",
+          "googleSearch": "https://www.google.com/search?q=Reggie+Jackson"
+        },
+        {
+          "firstName": "Luke",
+          "lastName": "Kennard",
+          "googleSearch": "https://www.google.com/search?q=Luke+Kennard"
+        },
+        {
+          "firstName": "Kawhi",
+          "lastName": "Leonard",
+          "googleSearch": "https://www.google.com/search?q=Kawhi+Leonard"
+        },
+        {
+          "firstName": "Terance",
+          "lastName": "Mann",
+          "googleSearch": "https://www.google.com/search?q=Terance+Mann"
+        },
+        {
+          "firstName": "Marcus",
+          "lastName": "Morris Sr.",
+          "googleSearch": "https://www.google.com/search?q=Marcus+Morris Sr."
+        },
+        {
+          "firstName": "Daniel",
+          "lastName": "Oturu",
+          "googleSearch": "https://www.google.com/search?q=Daniel+Oturu"
+        },
+        {
+          "firstName": "Patrick",
+          "lastName": "Patterson",
+          "googleSearch": "https://www.google.com/search?q=Patrick+Patterson"
+        },
+        {
+          "firstName": "Rajon",
+          "lastName": "Rondo",
+          "googleSearch": "https://www.google.com/search?q=Rajon+Rondo"
+        },
+        {
+          "firstName": "Jay",
+          "lastName": "Scrubb",
+          "googleSearch": "https://www.google.com/search?q=Jay+Scrubb"
+        },
+        {
+          "firstName": "Ivica",
+          "lastName": "Zubac",
+          "googleSearch": "https://www.google.com/search?q=Ivica+Zubac"
+        }
+      ]
+    }
+  ]
+}
