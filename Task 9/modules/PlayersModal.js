@@ -8,7 +8,7 @@ class PlayersModal {
     render() {
         const dialog = document.createElement('dialog');
         const teamName = document.createElement('h3');
-        teamName.textContent = `${this.teamName}`;
+        teamName.textContent = `${this.teamName} Players:`;
         const playersCard = document.createElement('div');
         fetch(this.PLAYERS_ENDPOINT)
             .then(res => res.json())

@@ -16,7 +16,7 @@ class PlayersModal{
         const dialog: HTMLDialogElement = document.createElement('dialog');
         // Create a heading and assign it's text content to the team name
         const teamName: HTMLHeadingElement = document.createElement('h3');
-        teamName.textContent = `${this.teamName}`;
+        teamName.textContent = `${this.teamName} Players:`;
         // Create a player card div element
         const playersCard: HTMLDivElement = document.createElement('div');
         // Fetch data from players.json
