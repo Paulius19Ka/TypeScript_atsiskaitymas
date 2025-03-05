@@ -16,7 +16,7 @@ class PlayersModal {
             const currentTeamPlayers = data.players.filter((player) => player.teamId === this.teamID);
             currentTeamPlayers.forEach((player) => {
                 const playerSpan = document.createElement('span');
-                playerSpan.textContent = player.firstName.concat(' ', player.lastName);
+                playerSpan.textContent = `${player.firstName} ${player.lastName}`;
                 ;
                 playersCard.append(playerSpan);
             });

@@ -27,7 +27,7 @@ class Potion{
     this.render();
   }
 
-  // render method, to check if the color inputs are incorrect (outside the rgb color number range of 0 and 255), print an error message if the condition is met
+  // render method, to check if the color inputs are incorrect (outside the rgb color number range of 0 and 255), stop executing the code and print an error message if the condition is met
   render(): void{
     if(!this.color.every(subColor => subColor >= 0 && subColor <= 255)){
       throw new Error(`The color ranges must be between 0 and 255`);

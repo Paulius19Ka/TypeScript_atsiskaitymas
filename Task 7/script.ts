@@ -30,7 +30,7 @@ fetch(ENDPOINT)
 
     const output: HTMLDivElement | null = document.querySelector('#output');
 
-    // A condition to print an error message in case the Div Element does not exist
+    // A condition to print an error message and to stop executing the code in case the Div Element does not exist
     if(!output){
         throw new Error(`The element widh id '#output' does not exist in the html file`);
     }
@@ -58,7 +58,7 @@ fetch(ENDPOINT)
 
             // Create a span element to place player names in, join first and last name into one string and assign it to the element's text content
             const playerName: HTMLSpanElement = document.createElement('span');
-            playerName.textContent = player.firstName.concat(' ', player.lastName);
+            playerName.textContent = `${player.firstName} ${player.lastName}`;
 
             // Create a link element to add links to search for more info about each player, add atrributes to handle the link/open link in new tab
             const playerInfo: HTMLAnchorElement = document.createElement('a');

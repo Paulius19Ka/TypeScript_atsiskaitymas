@@ -16,7 +16,7 @@ fetch(TEAMS_ENDPOINT)
 .then((data: NBA) => {
     const output: HTMLDivElement | null = document.querySelector('#output');
 
-    // A condition to print an error message in case the Div Element does not exist
+    // A condition to print an error message and to stop executing the code in case the Div Element does not exist
     if(!output){
         throw new Error(`The element widh id '#output' does not exist in the html file`);
     }

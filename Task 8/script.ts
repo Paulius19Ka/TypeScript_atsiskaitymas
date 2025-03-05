@@ -12,7 +12,7 @@ Pastaba: Atvaizdavimas turi būti matomas su kiekviena įvestimi ir pateikiamas 
 // Select form element in HTML
 const form: HTMLFormElement | null = document.querySelector('#converterForm');
 
-// Print error message in case form does not exist in HTML
+// Print error message and to stop executing the code in case form does not exist in HTML
 if(!form){
     throw new Error("Element with id '#converterForm' does not exist in HTML");
 }
@@ -26,7 +26,7 @@ submitBtn.classList.add('submit-btn');
 // Select the number input field element in HTML
 const metersInput: HTMLInputElement | null = document.querySelector('#meter');
 
-// Print error message in case the input element does not exist in HTML
+// Print error message and to stop executing the code in case the input element does not exist in HTML
 if(!metersInput){
     throw new Error("Element with id '#meter' does not exist in HTML");
 }
