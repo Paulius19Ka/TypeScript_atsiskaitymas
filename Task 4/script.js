@@ -16,7 +16,3 @@ const textToOnesAndZeroes = (text) => {
     }
     return output;
 };
-console.log(textToOnesAndZeroes('labas'));
-console.log(textToOnesAndZeroes('kebabas'));
-console.log(textToOnesAndZeroes('a'));
-console.log(textToOnesAndZeroes(''));
