@@ -13,21 +13,25 @@ type TipasNaudoti = {
   kilometrazas: number
 };
 
-const dviratis = {
+const dviratis: TipasNaudoti = {
   metai: 1999,
-  spalva: ''
+  spalva: 'juoda',
+  marke: 'Mongoose',
+  modelis: 'Colton',
+  kilometrazas: 200
 };
-const naujaMasina = {
-  marke: '',
-  modelis: '',
+const naujaMasina: TipasNaudoti = {
+  marke: 'Porsche',
+  modelis: '718 Cayman GT4 RS',
   metai: 2025,
-  spalva: ''
+  spalva: 'pilka',
+  kilometrazas: 10
 };
-const senaMasina = {
-  marke: '',
-  modelis: '',
+const senaMasina: TipasNaudoti = {
+  marke: 'Porsche',
+  modelis: '911 Carrera',
   metai: 2025,
-  spalva: '',
+  spalva: 'raudona',
   kilometrazas: 999999,
-  surudyjesDugnas: true  
+  // surudyjesDugnas: true  
 };
