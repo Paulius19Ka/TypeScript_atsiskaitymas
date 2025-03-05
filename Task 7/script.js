@@ -18,7 +18,11 @@ fetch(ENDPOINT)
             playerCard.classList.add('playerCard');
             const playerName = document.createElement('span');
             playerName.textContent = player.firstName.concat(' ', player.lastName);
-            playerCard.append(playerName);
+            const playerInfo = document.createElement('a');
+            playerInfo.textContent = 'More info';
+            playerInfo.setAttribute('href', `${player.googleSearch}`);
+            playerInfo.setAttribute('target', '_blank');
+            playerCard.append(playerName, playerInfo);
             teamCard.appendChild(playerCard);
         });
         output.appendChild(teamCard);

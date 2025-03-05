@@ -24,8 +24,6 @@ const ENDPOINT: string = 'NBA.json';
 fetch(ENDPOINT)
 .then(res => res.json())
 .then((data: NBA) => {
-    // console.log(data);
-    // console.log(data.teams[0]);
     const output: HTMLDivElement | null = document.querySelector('#output');
 
     if(!output){
@@ -44,7 +42,13 @@ fetch(ENDPOINT)
 
             const playerName = document.createElement('span');
             playerName.textContent = player.firstName.concat(' ', player.lastName);
-            playerCard.append(playerName);
+
+            const playerInfo = document.createElement('a');
+            playerInfo.textContent = 'More info';
+            playerInfo.setAttribute('href', `${player.googleSearch}`);
+            playerInfo.setAttribute('target', '_blank');
+
+            playerCard.append(playerName, playerInfo);
             teamCard.appendChild(playerCard)
         })
         output.appendChild(teamCard);
