@@ -1,5 +1,6 @@
 import PlayersModal from "./modules/PlayersModal.js";
 const TEAMS_ENDPOINT = 'teams.json';
+const PLAYERS_ENDPOINT = 'players.json';
 fetch(TEAMS_ENDPOINT)
     .then(res => res.json())
     .then((data) => {
@@ -21,9 +22,8 @@ fetch(TEAMS_ENDPOINT)
         const playersBtn = document.createElement('button');
         playersBtn.textContent = 'Players';
         playersBtn.addEventListener('click', () => {
-            console.log(team.abbreviation);
-            const playersModal = new PlayersModal(team.id, team.teamName);
-            playersModal.create();
+            const playersModal = new PlayersModal(team.id, team.teamName, PLAYERS_ENDPOINT);
+            playersModal.createModal();
         });
         teamCard.append(teamName, shortName, abbreviation, location, playersBtn);
         output.appendChild(teamCard);

@@ -6,27 +6,10 @@ nurodomas komandos: pilnas pavadinimas, paprastas pavadinimas, trumpinys, lokaci
 Pastaba: Informacija apie komandas bei žaidėjus turi turėti bent minimalų stilių;
 -------------------------------------------------------------------------- */
 import PlayersModal from "./modules/PlayersModal.js"
-
-// type Player = {
-//     id: number,
-//     teamId: number,
-//     firstName: string,
-//     lastName: string
-// }
-type NBA_Team = {
-    id: number,
-    abbreviation: string,
-    teamName: string,
-    simpleName: string,
-    location: string,
-    
-}
-type NBA = {
-    teams: NBA_Team[]
-}
+import { NBA, NBA_Team } from "./modules/Types.js";
 
 const TEAMS_ENDPOINT: string = 'teams.json';
-// const PLAYERS_ENDPOINT: string = 'players.json';
+const PLAYERS_ENDPOINT: string = 'players.json';
 
 fetch(TEAMS_ENDPOINT)
 .then(res => res.json())
@@ -44,7 +27,7 @@ fetch(TEAMS_ENDPOINT)
         // Create a heading to display team name
         const teamName: HTMLHeadingElement = document.createElement('h3');
         teamName.textContent = team.teamName;
-
+        // Create span elements to display other properties (abbr, short name, location) and a button
         const shortName: HTMLSpanElement = document.createElement('span');
         shortName.textContent = `Short Name: ${team.simpleName}`;
         const abbreviation: HTMLSpanElement = document.createElement('span');
@@ -53,16 +36,15 @@ fetch(TEAMS_ENDPOINT)
         location.textContent = `Location: ${team.location}`;
         const playersBtn: HTMLButtonElement = document.createElement('button');
         playersBtn.textContent = 'Players';
-
+        // Add event listener to the button, that occurs on click of said button
         playersBtn.addEventListener('click', () => {
-            console.log(team.abbreviation);
-            const playersModal = new PlayersModal(team.id, team.teamName);
-            playersModal.create();
+            // Call a Class to create a modal, when the button is clicked, use the 'createModal' method to display it
+            const playersModal = new PlayersModal(team.id, team.teamName, PLAYERS_ENDPOINT);
+            playersModal.createModal();
             
         })
 
-
-        // Append the heading to the team card
+        // Append the properties to the team card
         teamCard.append(teamName, shortName, abbreviation, location, playersBtn);
         
         // Append the team card to the output div
